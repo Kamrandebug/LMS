@@ -15,10 +15,36 @@
 
             <!-- Desktop Nav -->
             <div class="hidden md:flex items-center space-x-8">
-                <a href="{{ route('home') }}#subject-grid"
-                   class="text-gray-600 dark:text-gray-300 hover:text-brand-primary px-3 py-2 rounded-md font-medium transition-colors @if(request()->routeIs('home')) text-brand-primary @endif">
-                    <span>📚</span> Subjects
+                <a href="{{ route('home') }}"
+                   class="text-gray-600 dark:text-gray-300 hover:text-brand-primary px-3 py-2 rounded-md font-medium transition-colors @if(request()->routeIs('home') && !request()->has('subject')) text-brand-primary @endif">
+                    <span>🏠</span> Home
                 </a>
+
+                <!-- Courses Dropdown -->
+                <div class="relative" x-data="{ coursesOpen: false }" @click.away="coursesOpen = false">
+                    <button @click="coursesOpen = !coursesOpen"
+                            class="flex items-center gap-1 text-gray-600 dark:text-gray-300 hover:text-brand-primary px-3 py-2 rounded-md font-medium transition-colors">
+                        <span>🎓</span> Courses
+                        <svg class="w-4 h-4 transition-transform duration-200" :class="{ 'rotate-180': coursesOpen }" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                    <div x-show="coursesOpen"
+                         x-transition:enter="transition ease-out duration-150"
+                         x-transition:enter-start="opacity-0 -translate-y-1"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         x-transition:leave="transition ease-in duration-100"
+                         x-transition:leave-start="opacity-100 translate-y-0"
+                         x-transition:leave-end="opacity-0 -translate-y-1"
+                         class="absolute left-0 mt-2 w-48 rounded-xl bg-white dark:bg-slate-800 shadow-lg border border-gray-200 dark:border-gray-700 py-2 z-50"
+                         @click="coursesOpen = false">
+                        <a href="{{ route('home') }}#subject-grid"
+                           class="block px-4 py-2 text-gray-700 dark:text-gray-200 hover:bg-brand-primary/10 hover:text-brand-primary font-medium transition-colors rounded-lg mx-1">
+                            ⚖️ LAT
+                        </a>
+                    </div>
+                </div>
+
                 <a href="{{ route('mock-exams.index') }}"
                    class="text-gray-600 dark:text-gray-300 hover:text-brand-primary px-3 py-2 rounded-md font-medium transition-colors flex items-center gap-2 @if(request()->routeIs('mock-exams.*')) text-brand-primary @endif">
                     <span>📝</span> Mock Tests
@@ -80,10 +106,33 @@
         <div id="mobile-menu"
              class="md:hidden max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
             <div class="mt-2 mb-4 rounded-2xl bg-white dark:bg-slate-900 shadow-xl border border-gray-200/70 dark:border-gray-800 p-3 space-y-1">
-                <a href="{{ route('home') }}#subject-grid"
+                <a href="{{ route('home') }}"
                    class="mobile-menu-link flex items-center gap-3 px-4 py-3 rounded-xl text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-brand-primary font-medium transition-colors">
-                    <span>📚</span> <span>Subjects</span>
+                    <span>🏠</span> <span>Home</span>
                 </a>
+
+                <!-- Courses Accordion (Mobile) -->
+                <div x-data="{ mobileCoursesOpen: false }">
+                    <button @click="mobileCoursesOpen = !mobileCoursesOpen"
+                            class="w-full flex items-center justify-between gap-3 px-4 py-3 rounded-xl text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-brand-primary font-medium transition-colors">
+                        <div class="flex items-center gap-3">
+                            <span>🎓</span> <span>Courses</span>
+                        </div>
+                        <svg class="w-4 h-4 transition-transform duration-200" :class="{ 'rotate-180': mobileCoursesOpen }" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                    <div x-show="mobileCoursesOpen"
+                         x-transition:enter="transition ease-out duration-150"
+                         x-transition:enter-start="opacity-0 -translate-y-1"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         class="ml-4 border-l-2 border-gray-200 dark:border-gray-700 pl-2 space-y-1">
+                        <a href="{{ route('home') }}#subject-grid"
+                           class="mobile-menu-link flex items-center gap-3 px-4 py-2 rounded-xl text-gray-600 dark:text-gray-300 hover:bg-brand-primary/10 hover:text-brand-primary font-medium transition-colors">
+                            ⚖️ LAT
+                        </a>
+                    </div>
+                </div>
                 <a href="{{ route('mock-exams.index') }}"
                    class="mobile-menu-link flex items-center gap-3 px-4 py-3 rounded-xl text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-brand-primary font-medium transition-colors">
                     <span>📝</span> <span>Mock Tests</span>
