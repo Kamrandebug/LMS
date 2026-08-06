@@ -1,0 +1,89 @@
+{
+    "name": "learnup/mcq-platform",
+    "type": "project",
+    "description": "LearnUp MCQ Exam Preparation Platform",
+    "require": {
+        "php": "^8.2|^8.3",
+        "artesaos/seotools": "^1.0",
+        "laravel/breeze": "^2.0",
+        "laravel/framework": "^11.0",
+        "laravel/telescope": "^5.0",
+        "laravel/tinker": "^3.0",
+        "livewire/livewire": "^3.4",
+        "spatie/laravel-activitylog": "^4.0",
+        "spatie/laravel-permission": "^6.0",
+        "spatie/laravel-sitemap": "^7.0"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.23",
+        "laravel/sail": "^1.26",
+        "mockery/mockery": "^1.6",
+        "nunomaduro/collision": "^8.0",
+        "phpunit/phpunit": "^11.0",
+        "psy/psysh": "^0.12.24",
+        "spatie/laravel-ignition": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi"
+        ],
+        "post-update-cmd": [
+            "@php artisan vendor:publish --tag=laravel-assets --ansi --force"
+        ],
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php artisan key:generate --ansi"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "php-http/discovery": true,
+            "php-ffi/php-ffi": true
+        },
+        "audit": {
+            "ignore": [
+                "GHSA-5vg9-5847-vvmq",
+                "GHSA-78fx-h6xr-vch4",
+                "GHSA-crmm-hgp2-wgrp",
+                "GHSA-gv7v-rgg6-548h",
+                "PKSA-mdq4-51ck-6kdq",
+                "PKSA-3r5d-mb8f-1qw9",
+                "PKSA-m5cs-t1y6-qpcs",
+                "PKSA-8qx3-n5y5-vvnd",
+                "PKSA-q46n-4fdk-zjr4",
+                "PKSA-qzrn-rnz3-85w1",
+                "PKSA-w7xr-vk7n-rstm",
+                "PKSA-p3rx-dfwp-73ny",
+                "PKSA-ckwp-rt7t-c46m",
+                "PKSA-njrm-6dtg-m2pc"
+            ],
+            "block-insecure": false
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

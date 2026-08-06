@@ -1,0 +1,1011 @@
+{
+    "slug": "mock-test-1",
+    "total_questions": 100,
+    "name": "Mock Test 1",
+    "exam_type": "fia",
+    "duration_minutes": 90,
+    "negative_marking_value": 0.25,
+    "has_negative_marking": true,
+    "questions": [
+        {
+            "question_text": "Awami League's Six-Point Movement leader was:",
+            "option_a": "A.K. Fazlul Huq",
+            "option_b": "H.S. Suhrawardy",
+            "option_c": "Sheikh Mujibur Rahman",
+            "option_d": "Tajuddin Ahmad",
+            "correct_option": "c",
+            "explanation": "Sheikh Mujibur Rahman was the central leader of the Awami League and its Six-Point Movement for provincial autonomy, which formed his party's manifesto.",
+            "sort_order": 1
+        },
+        {
+            "question_text": "Liaquat Ali Khan's assassin was named:",
+            "option_a": "Ilm-ud-din",
+            "option_b": "Nathuram Godse",
+            "option_c": "Said Akbar Babrak",
+            "option_d": "Mirza Ghulam Qadir",
+            "correct_option": "c",
+            "explanation": "The assassin, who was killed by police on the spot, was identified as Said Akbar Babrak, an Afghan national.",
+            "sort_order": 2
+        },
+        {
+            "question_text": "The Julian archaeological site is located near:",
+            "option_a": "Peshawar",
+            "option_b": "Taxila",
+            "option_c": "Swat",
+            "option_d": "Multan",
+            "correct_option": "b",
+            "explanation": "Julian is the ruin of an ancient Buddhist monastery and university complex located near Taxila.",
+            "sort_order": 3
+        },
+        {
+            "question_text": "Liaquat Ali Khan was assassinated in which city?",
+            "option_a": "Karachi",
+            "option_b": "Lahore",
+            "option_c": "Rawalpindi",
+            "option_d": "Dhaka",
+            "correct_option": "c",
+            "explanation": "His assassination took place at Company Bagh, later renamed Liaquat Bagh, in Rawalpindi.",
+            "sort_order": 4
+        },
+        {
+            "question_text": "Which Tughlaq Sultan built extensive canals:",
+            "option_a": "Ghiyas-ud-din Tughlaq",
+            "option_b": "Muhammad bin Tughlaq",
+            "option_c": "Feroz Shah Tughlaq",
+            "option_d": "Nasir-ud-Din Mahmud",
+            "correct_option": "c",
+            "explanation": "Feroz Shah Tughlaq is renowned for his extensive network of canals for irrigation.",
+            "sort_order": 5
+        },
+        {
+            "question_text": "Bakht Khan was the commander-in-chief of rebel forces in:",
+            "option_a": "Kanpur",
+            "option_b": "Lucknow",
+            "option_c": "Delhi",
+            "option_d": "Jhansi",
+            "correct_option": "c",
+            "explanation": "General Bakht Khan was the de facto commander of the Indian rebel forces in Delhi during the 1857 Uprising.",
+            "sort_order": 6
+        },
+        {
+            "question_text": "The lowest rank (mansab) in Akbar's system was that of:",
+            "option_a": "10 horsemen",
+            "option_b": "50 horsemen",
+            "option_c": "100 horsemen",
+            "option_d": "500 horsemen",
+            "correct_option": "a",
+            "explanation": "The ranks in the Mansabdari system ranged from 10 to 10,000, with 10 being the lowest rank for an officer.",
+            "sort_order": 7
+        },
+        {
+            "question_text": "City Alexander founded to honor his horse:",
+            "option_a": "Pattala",
+            "option_b": "Alexandria Nicaea",
+            "option_c": "Alexandria Bucephalous",
+            "option_d": "Sogdiana",
+            "correct_option": "c",
+            "explanation": "Alexander founded Alexandria Bucephalous on the Jhelum riverbank in memory of his horse, Bucephalus.",
+            "sort_order": 8
+        },
+        {
+            "question_text": "Jinnah's SBP inauguration speech was his last major ____:",
+            "option_a": "Radio address",
+            "option_b": "Public address",
+            "option_c": "Press conference",
+            "option_d": "Cabinet meeting",
+            "correct_option": "b",
+            "explanation": "Delivered on July 1, 1948, this was the Quaid-e-Azam's last significant public address due to his declining health.",
+            "sort_order": 9
+        },
+        {
+            "question_text": "General Havelock recaptured Kanpur from:",
+            "option_a": "Tantia Tope",
+            "option_b": "Rani Lakshmibai",
+            "option_c": "Nana Sahib",
+            "option_d": "Kunwar Singh",
+            "correct_option": "c",
+            "explanation": "Havelock's forces defeated Nana Sahib's army and retook Kanpur in July 1857.",
+            "sort_order": 10
+        },
+        {
+            "question_text": "The Allahabad Address is a foundational text for ____:",
+            "option_a": "Pakistan Movement",
+            "option_b": "Khilafat Movement",
+            "option_c": "Indian Nationalism",
+            "option_d": "Socialism in India",
+            "correct_option": "a",
+            "explanation": "The address is regarded as a landmark moment that provided the intellectual and philosophical basis for the Pakistan Movement.",
+            "sort_order": 11
+        },
+        {
+            "question_text": "Length of the Khojak Tunnel, near Khojak Pass, is:",
+            "option_a": "1.9 km",
+            "option_b": "2.9 km",
+            "option_c": "3.9 km",
+            "option_d": "4.9 km",
+            "correct_option": "c",
+            "explanation": "The Khojak Tunnel (Shela Bagh tunnel",
+            "sort_order": 12
+        },
+        {
+            "question_text": "The IVC port city, Lothal, was discovered by:",
+            "option_a": "Y.D. Sharma",
+            "option_b": "B.B. Lal",
+            "option_c": "J.P. Joshi",
+            "option_d": "S.R. Rao",
+            "correct_option": "d",
+            "explanation": "S.R. Rao led the team that discovered the Harappan port city of Lothal in Gujarat, India, with excavations starting in 1955.",
+            "sort_order": 13
+        },
+        {
+            "question_text": "The Federal Shariat Court was established in which year?",
+            "option_a": "1978",
+            "option_b": "1980",
+            "option_c": "1982",
+            "option_d": "1984",
+            "correct_option": "b",
+            "explanation": "The Federal Shariat Court was established in 1980 through a presidential order to examine and decide whether laws conform to Sharia.",
+            "sort_order": 14
+        },
+        {
+            "question_text": "Official name of the Simon Commission:",
+            "option_a": "Indian Statutory Commission",
+            "option_b": "Indian Constitutional Committee",
+            "option_c": "Reforms Inquiry Commission",
+            "option_d": "British India Commission",
+            "correct_option": "a",
+            "explanation": "The Simon Commission's formal name was the Indian Statutory Commission, appointed to review constitutional reform.",
+            "sort_order": 15
+        },
+        {
+            "question_text": "Tatya Tope was betrayed to the British by:",
+            "option_a": "Man Singh",
+            "option_b": "Aparao",
+            "option_c": "Kunwar Singh",
+            "option_d": "Scindia of Gwalior",
+            "correct_option": "a",
+            "explanation": "Man Singh, Raja of Narwar, betrayed Tatya Tope while he was asleep in the forest, leading to his capture by the British.",
+            "sort_order": 16
+        },
+        {
+            "question_text": "Tarbela Dam is built on which river:",
+            "option_a": "Indus",
+            "option_b": "Jhelum",
+            "option_c": "Chenab",
+            "option_d": "Kabul",
+            "correct_option": "a",
+            "explanation": "Tarbela Dam, the world's largest earth-filled dam, is located on the Indus River in Khyber Pakhtunkhwa.",
+            "sort_order": 17
+        },
+        {
+            "question_text": "Bakht Khan fled to ____ after Delhi's fall:",
+            "option_a": "Nepal",
+            "option_b": "Burma",
+            "option_c": "Afghanistan",
+            "option_d": "Persia",
+            "correct_option": "a",
+            "explanation": "After the British recaptured Delhi in September 1857, Bakht Khan escaped to the Terai region of Nepal.",
+            "sort_order": 18
+        },
+        {
+            "question_text": "An early proposed name for AIML was:",
+            "option_a": "Indian Muslim Congress",
+            "option_b": "Muslim Union of India",
+            "option_c": "All India Muslim Confederacy",
+            "option_d": "Muslim Majlis",
+            "correct_option": "c",
+            "explanation": "Before finalizing 'All-India Muslim League', one of the initial names considered for the organization was the 'All India Muslim Confederacy'.",
+            "sort_order": 19
+        },
+        {
+            "question_text": "Besides Pakistan, Chukar is the national bird of:",
+            "option_a": "Iran",
+            "option_b": "Iraq",
+            "option_c": "Afghanistan",
+            "option_d": "Turkey",
+            "correct_option": "b",
+            "explanation": "The Chukar partridge holds the distinction of being the national bird for both Pakistan and Iraq.",
+            "sort_order": 20
+        },
+        {
+            "question_text": "AFP's current name was adopted after the 1944 liberation of:",
+            "option_a": "Paris",
+            "option_b": "Lyon",
+            "option_c": "Marseille",
+            "option_d": "Brussels",
+            "correct_option": "a",
+            "explanation": "After the liberation of Paris, journalists from the French Resistance took over the Havas agency offices and renamed it Agence France-Presse.",
+            "sort_order": 21
+        },
+        {
+            "question_text": "The 'Cockpit of Europe' sobriquet alludes to Belgium's history as:",
+            "option_a": "A major shipbuilding center",
+            "option_b": "A frequent battleground for European powers",
+            "option_c": "A leading producer of agricultural goods",
+            "option_d": "The location of the first European parliament",
+            "correct_option": "b",
+            "explanation": "Belgium's geographical location made it a frequent site of conflicts between European powers, hence the name 'Cockpit of Europe'.",
+            "sort_order": 22
+        },
+        {
+            "question_text": "Which explorer's voyages were primarily funded by Spain?",
+            "option_a": "Vasco da Gama",
+            "option_b": "Ferdinand Magellan",
+            "option_c": "Christopher Columbus",
+            "option_d": "James Cook",
+            "correct_option": "c",
+            "explanation": "Christopher Columbus's voyages were funded by the Spanish monarchy, specifically Queen Isabella I.",
+            "sort_order": 23
+        },
+        {
+            "question_text": "Which of the following is the currency of Uzbekistan?",
+            "option_a": "Som",
+            "option_b": "Tenge",
+            "option_c": "Manat",
+            "option_d": "Lari",
+            "correct_option": "a",
+            "explanation": "The official currency of Uzbekistan is the Som (UZS).",
+            "sort_order": 24
+        },
+        {
+            "question_text": "The 17th Parallel divided which nation from 1954 to 1976:",
+            "option_a": "Korea",
+            "option_b": "Germany",
+            "option_c": "Yemen",
+            "option_d": "Vietnam",
+            "correct_option": "d",
+            "explanation": "The 1954 Geneva Accords provisionally divided Vietnam at the 17th Parallel into North and South Vietnam.",
+            "sort_order": 25
+        },
+        {
+            "question_text": "SANA, the Syrian Arab News Agency, is based in which city?",
+            "option_a": "Aleppo",
+            "option_b": "Damascus",
+            "option_c": "Homs",
+            "option_d": "Latakia",
+            "correct_option": "b",
+            "explanation": "SANA is located in Damascus, the capital of Syria.",
+            "sort_order": 26
+        },
+        {
+            "question_text": "In which city are the Nobel Prizes in Physics, Chemistry, Physiology or Medicine, and Literature awarded?",
+            "option_a": "Oslo",
+            "option_b": "Stockholm",
+            "option_c": "Geneva",
+            "option_d": "Copenhagen",
+            "correct_option": "b",
+            "explanation": "The Nobel Prizes in Physics, Chemistry, Physiology or Medicine, and Literature are awarded in Stockholm, Sweden.",
+            "sort_order": 27
+        },
+        {
+            "question_text": "A member state's withdrawal from the EU is governed by:",
+            "option_a": "Article 25",
+            "option_b": "Article 50",
+            "option_c": "Article 101",
+            "option_d": "Article 288",
+            "correct_option": "b",
+            "explanation": "Article 50 of the Treaty on European Union provides the legal mechanism for a member state to withdraw from the bloc.",
+            "sort_order": 28
+        },
+        {
+            "question_text": "The Panama Canal connects the Atlantic Ocean with which body of water on the Pacific side?",
+            "option_a": "Gulf of California",
+            "option_b": "Caribbean Sea",
+            "option_c": "Pacific Ocean",
+            "option_d": "Gulf of Panama",
+            "correct_option": "d",
+            "explanation": "The Panama Canal connects the Atlantic Ocean (via the Caribbean Sea) to the Pacific Ocean (via the Gulf of Panama).",
+            "sort_order": 29
+        },
+        {
+            "question_text": "The capital city of Argentina is:",
+            "option_a": "Buenos Aires",
+            "option_b": "Mendoza",
+            "option_c": "Córdoba",
+            "option_d": "Rosario",
+            "correct_option": "a",
+            "explanation": "Buenos Aires is the capital and largest city of Argentina, located on the western shore of the Río de la Plata.",
+            "sort_order": 30
+        },
+        {
+            "question_text": "Which city serves as the headquarters of the World Bank?",
+            "option_a": "New York",
+            "option_b": "Washington, D.C.",
+            "option_c": "Geneva",
+            "option_d": "Paris",
+            "correct_option": "b",
+            "explanation": "The World Bank headquarters are located in Washington, D.C.",
+            "sort_order": 31
+        },
+        {
+            "question_text": "The island of Borneo is politically divided among how many countries?",
+            "option_a": "One",
+            "option_b": "Two",
+            "option_c": "Three",
+            "option_d": "Four",
+            "correct_option": "c",
+            "explanation": "Borneo is divided among three countries: Malaysia and Brunei in the north, and Indonesia to the south.",
+            "sort_order": 32
+        },
+        {
+            "question_text": "The national currency of the Kingdom of Bahrain is the:",
+            "option_a": "Bahraini Riyal",
+            "option_b": "Bahraini Dirham",
+            "option_c": "Bahraini Rial",
+            "option_d": "Bahraini Dinar",
+            "correct_option": "d",
+            "explanation": "The Bahraini Dinar is the official currency of Bahrain and is one of the world's highest-valued currency units.",
+            "sort_order": 33
+        },
+        {
+            "question_text": "The overall Allied operation for the D-Day landings was codenamed:",
+            "option_a": "Operation Torch",
+            "option_b": "Operation Barbarossa",
+            "option_c": "Operation Overlord",
+            "option_d": "Operation Market Garden",
+            "correct_option": "c",
+            "explanation": "Operation Overlord was the codename for the Battle of Normandy, the successful Allied invasion of German-occupied Western Europe during World War II.",
+            "sort_order": 34
+        },
+        {
+            "question_text": "The primary intelligence agency of Iran's Revolutionary Guard Corps is the:",
+            "option_a": "SAVAK",
+            "option_b": "MOIS",
+            "option_c": "VEVAK",
+            "option_d": "IRGC-IO",
+            "correct_option": "d",
+            "explanation": "The Intelligence Organization of the IRGC (IRGC-IO) is a powerful agency separate from Iran's Ministry of Intelligence (MOIS). SAVAK was the pre-revolution agency.",
+            "sort_order": 35
+        },
+        {
+            "question_text": "The Olympic motto 'Citius, Altius, Fortius' means:",
+            "option_a": "Faster, Higher, Stronger",
+            "option_b": "Mind, Body, Spirit",
+            "option_c": "Victory, Honor, Glory",
+            "option_d": "Health, Unity, Peace",
+            "correct_option": "a",
+            "explanation": "The Latin motto translates to 'Faster, Higher, Stronger'. In 2021, the word 'Communiter' (Together) was added.",
+            "sort_order": 36
+        },
+        {
+            "question_text": "The Kerch Strait provides the only access to which sea?",
+            "option_a": "Sea of Azov",
+            "option_b": "Aral Sea",
+            "option_c": "Caspian Sea",
+            "option_d": "Red Sea",
+            "correct_option": "a",
+            "explanation": "The Kerch Strait connects the Black Sea with the Sea of Azov, making it a strategic chokepoint.",
+            "sort_order": 37
+        },
+        {
+            "question_text": "The world's largest hydroelectric facility by generation capacity is:",
+            "option_a": "Three Gorges Dam",
+            "option_b": "Itaipu Dam",
+            "option_c": "Hoover Dam",
+            "option_d": "Tarbela Dam",
+            "correct_option": "a",
+            "explanation": "The Three Gorges Dam in China is the world's largest power station in terms of installed capacity (22,500 MW).",
+            "sort_order": 38
+        },
+        {
+            "question_text": "The outermost atmospheric layer that merges into space is the:",
+            "option_a": "Thermosphere",
+            "option_b": "Mesopause",
+            "option_c": "Exosphere",
+            "option_d": "Magnetosphere",
+            "correct_option": "c",
+            "explanation": "The Exosphere is the final layer of the atmosphere where atmospheric density is so low that particles can escape Earth's gravity.",
+            "sort_order": 39
+        },
+        {
+            "question_text": "What is a significant limitation of Geostationary satellites?",
+            "option_a": "Limited coverage area",
+            "option_b": "High latency due to the distance",
+            "option_c": "Short lifespan",
+            "option_d": "Susceptibility to solar flares",
+            "correct_option": "b",
+            "explanation": "The high altitude of geostationary satellites causes a noticeable delay (latency) in signal transmission.",
+            "sort_order": 40
+        },
+        {
+            "question_text": "Which instrument is used to measure atmospheric pressure?",
+            "option_a": "Hygrometer",
+            "option_b": "Anemometer",
+            "option_c": "Barometer",
+            "option_d": "Thermometer",
+            "correct_option": "c",
+            "explanation": "A barometer is specifically designed to measure atmospheric pressure.",
+            "sort_order": 41
+        },
+        {
+            "question_text": "What is the role of a 'moderator' in a nuclear fission reactor?",
+            "option_a": "To speed up neutrons",
+            "option_b": "To absorb excess neutrons",
+            "option_c": "To slow down neutrons",
+            "option_d": "To increase the temperature",
+            "correct_option": "c",
+            "explanation": "A moderator (like graphite or heavy water) slows down neutrons to increase the probability of further fission reactions.",
+            "sort_order": 42
+        },
+        {
+            "question_text": "In mobile communication, what is a key benefit of 5G technology over 4G?",
+            "option_a": "Lower frequency bands.",
+            "option_b": "Higher data transfer speeds and lower latency.",
+            "option_c": "Simpler network architecture.",
+            "option_d": "Reduced security vulnerabilities.",
+            "correct_option": "b",
+            "explanation": "5G provides significantly higher data transfer speeds and lower latency compared to 4G, enabling new applications like real-time gaming and autonomous driving.",
+            "sort_order": 43
+        },
+        {
+            "question_text": "What is the function of 'royal jelly' in a honeybee colony?",
+            "option_a": "To provide energy for the workers",
+            "option_b": "To feed all larvae during their development",
+            "option_c": "To feed only larvae that will become queens",
+            "option_d": "To build the honeycomb",
+            "correct_option": "c",
+            "explanation": "Royal jelly is a special secretion fed to larvae destined to become queens, enabling their development into fertile females.",
+            "sort_order": 44
+        },
+        {
+            "question_text": "Which of the following is a direct function of the pancreas?",
+            "option_a": "Secreting hormones for blood sugar regulation",
+            "option_b": "Filtering waste from the blood",
+            "option_c": "Storing vitamins and minerals",
+            "option_d": "Producing antibodies to fight infections",
+            "correct_option": "a",
+            "explanation": "The pancreas secretes insulin and glucagon to regulate blood sugar.",
+            "sort_order": 45
+        },
+        {
+            "question_text": "Which of the following describes the primary difference between the life cycle of a butterfly and a grasshopper?",
+            "option_a": "Butterflies have a nymph stage.",
+            "option_b": "Grasshoppers have a pupa stage.",
+            "option_c": "Butterflies have a pupa stage.",
+            "option_d": "Grasshoppers undergo complete metamorphosis.",
+            "correct_option": "c",
+            "explanation": "Butterflies undergo complete metamorphosis with a pupa stage, while grasshoppers undergo incomplete metamorphosis without a pupa.",
+            "sort_order": 46
+        },
+        {
+            "question_text": "The 'half-life' of a radioactive isotope refers to:",
+            "option_a": "The time it takes for all of the isotope to decay.",
+            "option_b": "The time it takes for half of the isotope to decay.",
+            "option_c": "The time it takes for the isotope to become stable.",
+            "option_d": "The average lifespan of an atom of the isotope.",
+            "correct_option": "b",
+            "explanation": "Half-life is the time required for half of the radioactive nuclei in a sample to undergo radioactive decay.",
+            "sort_order": 47
+        },
+        {
+            "question_text": "The vitamin commonly known as Biotin is:",
+            "option_a": "Vitamin B5",
+            "option_b": "Vitamin B7",
+            "option_c": "Vitamin B9",
+            "option_d": "Vitamin K",
+            "correct_option": "b",
+            "explanation": "Biotin is the chemical and common name for Vitamin B7, important for metabolism of fats and carbohydrates.",
+            "sort_order": 48
+        },
+        {
+            "question_text": "In geology, Ibn Sina contributed an early concept of the Law of:",
+            "option_a": "Superposition",
+            "option_b": "Uniformitarianism",
+            "option_c": "Inclusion",
+            "option_d": "Horizontality",
+            "correct_option": "a",
+            "explanation": "In 'The Book of Healing', he discussed the formation of mountains and the layering of rock (stratification), a key idea in geology.",
+            "sort_order": 49
+        },
+        {
+            "question_text": "Which of the following is a characteristic of the pupal stage in holometabolous insects like butterflies?",
+            "option_a": "Active feeding",
+            "option_b": "Rapid growth and molting",
+            "option_c": "Reorganization of larval tissues",
+            "option_d": "Direct reproduction",
+            "correct_option": "c",
+            "explanation": "The pupal stage involves a significant reorganization of larval tissues into the adult form.",
+            "sort_order": 50
+        },
+        {
+            "question_text": "Al-Biruni's 'Kitab-ul-Hind' was originally written in:",
+            "option_a": "Persian",
+            "option_b": "Sanskrit",
+            "option_c": "Arabic",
+            "option_d": "Turkish",
+            "correct_option": "c",
+            "explanation": "Despite the subject being India, the scholarly lingua franca of the Islamic Golden Age was Arabic.",
+            "sort_order": 51
+        },
+        {
+            "question_text": "The SOFAR channel is a layer in the ocean that acts as a:",
+            "option_a": "Waveguide for low-frequency sound",
+            "option_b": "Barrier for radio waves",
+            "option_c": "Filter for ultraviolet light",
+            "option_d": "Conductor for magnetic fields",
+            "correct_option": "a",
+            "explanation": "The Sound Fixing and Ranging (SOFAR) channel is a layer where sound speed is minimal, trapping sound waves and allowing them to travel vast distances.",
+            "sort_order": 52
+        },
+        {
+            "question_text": "What is the approximate percentage of nitrogen in the Earth's atmosphere?",
+            "option_a": "21%",
+            "option_b": "50%",
+            "option_c": "78%",
+            "option_d": "95%",
+            "correct_option": "c",
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "sort_order": 53
+        },
+        {
+            "question_text": "The arbitration (Tahkim) after the Battle of Siffin was held at:",
+            "option_a": "Tabuk",
+            "option_b": "Dumat al-Jandal",
+            "option_c": "Harran",
+            "option_d": "Yarmouk",
+            "correct_option": "b",
+            "explanation": "The arbitrators representing Hazrat Ali and Muawiyah met at Dumat al-Jandal, an ancient city in modern-day Saudi Arabia, to resolve the conflict.",
+            "sort_order": 54
+        },
+        {
+            "question_text": "The Shafi'i school is often considered a synthesis of the:",
+            "option_a": "Zahiri and Ja'fari schools",
+            "option_b": "Kufa and Basra schools",
+            "option_c": "Medina and Kufa schools",
+            "option_d": "Mecca and Damascus schools",
+            "correct_option": "c",
+            "explanation": "Al-Shafi'i studied under students of both Imam Abu Hanifa (Kufa) and Imam Malik (Medina), creating a methodology that synthesized their approaches.",
+            "sort_order": 55
+        },
+        {
+            "question_text": "The meeting for Hilf-ul-Fudul took place in the house of:",
+            "option_a": "Abu Talib",
+            "option_b": "Waraqah ibn Nawfal",
+            "option_c": "Al-Arqam ibn Abi'l-Arqam",
+            "option_d": "Abdullah ibn Jud'an",
+            "correct_option": "d",
+            "explanation": "The historic pact was concluded in the house of Abdullah ibn Jud'an, a respected and wealthy chief of the Banu Taym clan of Quraysh.",
+            "sort_order": 56
+        },
+        {
+            "question_text": "Hazrat Usman (RA) expanded Masjid al-Haram, the Grand Mosque in Makkah, in which year?",
+            "option_a": "24 AH",
+            "option_b": "26 AH",
+            "option_c": "29 AH",
+            "option_d": "32 AH",
+            "correct_option": "b",
+            "explanation": "In 26 AH, Hazrat Usman (RA) ordered the first major expansion of the Grand Mosque to accommodate the increasing number of pilgrims.",
+            "sort_order": 57
+        },
+        {
+            "question_text": "The sacrifice of the cow, in Surah Al-Baqarah, was to:",
+            "option_a": "Expose a murderer",
+            "option_b": "Celebrate a festival",
+            "option_c": "Atone for building the calf",
+            "option_d": "Purify their wealth",
+            "correct_option": "a",
+            "explanation": "Bani Israel were commanded to sacrifice a heifer and strike the dead man with a piece of it, which miraculously revealed his killer.",
+            "sort_order": 58
+        },
+        {
+            "question_text": "The Quranic command making Hajj obligatory is in Surah:",
+            "option_a": "Al-Baqarah",
+            "option_b": "Al-Imran",
+            "option_c": "Al-Ma'idah",
+            "option_d": "Al-Hajj",
+            "correct_option": "b",
+            "explanation": "The primary verse making Hajj obligatory upon those who can afford the journey is in Surah Al-Imran, Ayah 97.",
+            "sort_order": 59
+        },
+        {
+            "question_text": "The Visigothic Kingdom in Spain was decisively defeated at the:",
+            "option_a": "Battle of Tours",
+            "option_b": "Battle of Yarmouk",
+            "option_c": "Battle of Guadalete",
+            "option_d": "Battle of Qadisiyyah",
+            "correct_option": "c",
+            "explanation": "The Battle of Guadalete in 711 AD resulted in a decisive victory for the Umayyad army, leading to the collapse of Visigothic rule.",
+            "sort_order": 60
+        },
+        {
+            "question_text": "Which book is known for classifying hadith as Hasan\/Sahih\/Da'if:",
+            "option_a": "Jami' at-Tirmidhi",
+            "option_b": "Sunan Ibn Majah",
+            "option_c": "Sahih Muslim",
+            "option_d": "Muwatta Imam Malik",
+            "correct_option": "a",
+            "explanation": "Imam al-Tirmidhi was a pioneer in hadith terminology, often commenting on the authenticity grade of the hadiths in his collection.",
+            "sort_order": 61
+        },
+        {
+            "question_text": "The Wajib stay (Wuquf) at Muzdalifah is primarily between:",
+            "option_a": "Sunset and Midnight",
+            "option_b": "Isha prayer and Fajr prayer",
+            "option_c": "Midnight and Sunrise",
+            "option_d": "Fajr prayer and Sunrise",
+            "correct_option": "d",
+            "explanation": "The obligatory period for the stay at Muzdalifah, according to the majority opinion, is the time between the Fajr prayer and sunrise on the 10th of Dhul Hijjah.",
+            "sort_order": 62
+        },
+        {
+            "question_text": "How many standardized copies were initially made by Uthman's committee:",
+            "option_a": "Three",
+            "option_b": "Five",
+            "option_c": "Seven",
+            "option_d": "Ten",
+            "correct_option": "c",
+            "explanation": "It is widely reported that seven copies of the standardized Mushaf were made and sent to major Islamic centers like Makkah, Syria, Yemen, Bahrain, Basra, Kufa, and one was kept in Madinah.",
+            "sort_order": 63
+        },
+        {
+            "question_text": "After the persecution in Taif, which angel offered to destroy its people?",
+            "option_a": "Jibra'il (A.S)",
+            "option_b": "Mika'il (A.S)",
+            "option_c": "The Angel of the Mountains",
+            "option_d": "Israfil (A.S)",
+            "correct_option": "c",
+            "explanation": "The Angel of the Mountains (Malak al-Jibal) sought permission from the Prophet (PBUH) to crush the people of Taif between two mountains.",
+            "sort_order": 64
+        },
+        {
+            "question_text": "The original Quranic codex (Mushaf) was entrusted to which wife?",
+            "option_a": "Hazrat Ayesha (RA)",
+            "option_b": "Hazrat Zainab (RA)",
+            "option_c": "Hazrat Umm Salama (RA)",
+            "option_d": "Hazrat Hafsa (RA)",
+            "correct_option": "d",
+            "explanation": "The original manuscript of the Quran, compiled under Caliph Abu Bakr (RA), was kept with Hazrat Hafsa (RA), daughter of Caliph Umar (RA).",
+            "sort_order": 65
+        },
+        {
+            "question_text": "The title 'Sinam al-Quran' (The Hump\/Peak of the Quran) refers to:",
+            "option_a": "Surah Al-Fatiha",
+            "option_b": "Surah Yaseen",
+            "option_c": "Surah Al-Baqarah",
+            "option_d": "Surah Ar-Rahman",
+            "correct_option": "c",
+            "explanation": "Due to its length, majesty, and the vast number of rulings it contains, Surah Al-Baqarah is called the 'Peak of the Quran'.",
+            "sort_order": 66
+        },
+        {
+            "question_text": "In Surah Al-Kahf, Prophet Musa (AS) seeks knowledge from:",
+            "option_a": "Prophet Ilyas (AS)",
+            "option_b": "Prophet Al-Khidr (AS)",
+            "option_c": "Prophet Shuaib (AS)",
+            "option_d": "An unknown angel",
+            "correct_option": "b",
+            "explanation": "The Quran narrates the journey of Musa (AS) with a wise servant of Allah, traditionally identified as Al-Khidr, to learn about divine wisdom.",
+            "sort_order": 67
+        },
+        {
+            "question_text": "The Scrolls of Ibrahim (Suhuf-i-Ibrahim) are mentioned in which Quranic Surah?",
+            "option_a": "Surah Al-Ala",
+            "option_b": "Surah Al-Mulk",
+            "option_c": "Surah Yasin",
+            "option_d": "Surah Ar-Rahman",
+            "correct_option": "a",
+            "explanation": "The 'Scrolls of Ibrahim' are mentioned by name in Surah Al-Ala (Chapter 87, Verse 19) and Surah An-Najm (Chapter 53, Verse 37).",
+            "sort_order": 68
+        },
+        {
+            "question_text": "What is a key feature that distinguishes third-generation computers from second-generation computers?",
+            "option_a": "Use of Vacuum Tubes",
+            "option_b": "Use of Transistors",
+            "option_c": "Use of Integrated Circuits",
+            "option_d": "Use of Microprocessors",
+            "correct_option": "c",
+            "explanation": "Third-generation computers are defined by their use of integrated circuits (ICs).",
+            "sort_order": 69
+        },
+        {
+            "question_text": "What do the initials 'LC' in LCD monitor technology stand for?",
+            "option_a": "Light Computer",
+            "option_b": "Liquid Crystal",
+            "option_c": "Luminous Cell",
+            "option_d": "Linear Circuit",
+            "correct_option": "b",
+            "explanation": "The 'LC' in LCD stands for Liquid Crystal. LCD stands for Liquid Crystal Display.",
+            "sort_order": 70
+        },
+        {
+            "question_text": "The computer acronym CMOS stands for:",
+            "option_a": "Complementary Metal-Oxide-Semiconductor",
+            "option_b": "Computer Main Operating System",
+            "option_c": "Central Memory-Oriented Storage",
+            "option_d": "Core Machine Object Software",
+            "correct_option": "a",
+            "explanation": "CMOS stands for Complementary Metal-Oxide-Semiconductor, a technology for making low-power integrated circuits used to store BIOS settings.",
+            "sort_order": 71
+        },
+        {
+            "question_text": "Which printer type uses powdered toner?",
+            "option_a": "Inkjet",
+            "option_b": "Dot Matrix",
+            "option_c": "Daisy Wheel",
+            "option_d": "Laser",
+            "correct_option": "d",
+            "explanation": "Laser printers use a fine powder called toner, which is fused onto paper with heat to create the image.",
+            "sort_order": 72
+        },
+        {
+            "question_text": "In MS Word, pressing 'Ctrl + U' applies which of the following?",
+            "option_a": "Underline",
+            "option_b": "Uppercase",
+            "option_c": "Update",
+            "option_d": "Unlink",
+            "correct_option": "a",
+            "explanation": "'Ctrl + U' underlines the selected text in MS Word.",
+            "sort_order": 73
+        },
+        {
+            "question_text": "The main working area in Normal view is the ____:",
+            "option_a": "Notes Pane",
+            "option_b": "Outline Pane",
+            "option_c": "Slide Pane",
+            "option_d": "Master Pane",
+            "correct_option": "c",
+            "explanation": "The Slide Pane is the large, central area in Normal view where you design and edit an individual slide.",
+            "sort_order": 74
+        },
+        {
+            "question_text": "What is the process of encoding data to prevent unauthorized access called?",
+            "option_a": "Decryption",
+            "option_b": "Compilation",
+            "option_c": "Encryption",
+            "option_d": "Obfuscation",
+            "correct_option": "c",
+            "explanation": "Encryption converts data into an unreadable format, requiring a key to revert it to its original state.",
+            "sort_order": 75
+        },
+        {
+            "question_text": "The full form of WIFI is:",
+            "option_a": "Wireless Fidelity",
+            "option_b": "Wireless Fiber",
+            "option_c": "Wire-Free Internet",
+            "option_d": "Wide Fidelity",
+            "correct_option": "a",
+            "explanation": "WIFI stands for Wireless Fidelity, a marketing term for IEEE 802.11x standards.",
+            "sort_order": 76
+        },
+        {
+            "question_text": "Which network type is commonly used to connect computers within a building or small area?",
+            "option_a": "LAN",
+            "option_b": "WAN",
+            "option_c": "MAN",
+            "option_d": "GAN",
+            "correct_option": "a",
+            "explanation": "A Local Area Network (LAN) connects devices in a limited geographical area, like a home or office.",
+            "sort_order": 77
+        },
+        {
+            "question_text": "Malware that secretly records user information:",
+            "option_a": "Ransomware",
+            "option_b": "Spyware",
+            "option_c": "Worm",
+            "option_d": "Virus",
+            "correct_option": "b",
+            "explanation": "Spyware is designed to secretly monitor and collect a user's personal data without their consent.",
+            "sort_order": 78
+        },
+        {
+            "question_text": "More than one student _____ tried to solve the problem.",
+            "option_a": "have",
+            "option_b": "has",
+            "option_c": "were",
+            "option_d": "are",
+            "correct_option": "b",
+            "explanation": "The expression 'more than one' is grammatically singular and takes a singular verb.",
+            "sort_order": 79
+        },
+        {
+            "question_text": "The idiom 'let your hair down' suggests:",
+            "option_a": "To behave in an uninhibited or relaxed way",
+            "option_b": "To reveal a long-held secret",
+            "option_c": "To give up on a difficult goal",
+            "option_d": "To show signs of aging or stress",
+            "correct_option": "a",
+            "explanation": "This phrase means to relax and enjoy oneself freely, without worrying about behaving in a restrained or formal way.",
+            "sort_order": 80
+        },
+        {
+            "question_text": "The political system of rule by judges is called:",
+            "option_a": "Kritarchy",
+            "option_b": "Thearchy",
+            "option_c": "Nomocracy",
+            "option_d": "Patriarchy",
+            "correct_option": "a",
+            "explanation": "Kritarchy comes from the Greek 'krites' (judge) and 'arche' (rule), meaning rule by judges.",
+            "sort_order": 81
+        },
+        {
+            "question_text": "Killing a newborn within 24 hours of birth is:",
+            "option_a": "Prolicide",
+            "option_b": "Filicide",
+            "option_c": "Neonaticide",
+            "option_d": "Infanticide",
+            "correct_option": "c",
+            "explanation": "'Neonaticide' is a sub-type of infanticide specific to the first day of life.",
+            "sort_order": 82
+        },
+        {
+            "question_text": "To 'have a bee in one's bonnet' means:",
+            "option_a": "To be very busy and active",
+            "option_b": "To have a clever idea",
+            "option_c": "To be obsessed with an idea",
+            "option_d": "To have a minor annoyance",
+            "correct_option": "c",
+            "explanation": "This idiom signifies being preoccupied or obsessed with a single idea, often to an irrational extent.",
+            "sort_order": 83
+        },
+        {
+            "question_text": "Choose the passive form: 'She had not written the essay.'",
+            "option_a": "The essay was not written by her.",
+            "option_b": "The essay has not been written by her.",
+            "option_c": "The essay had not been written by her.",
+            "option_d": "The essay had not being written by her.",
+            "correct_option": "c",
+            "explanation": "Past Perfect active ('had not written') changes to Past Perfect passive ('had not been written').",
+            "sort_order": 84
+        },
+        {
+            "question_text": "Scales:Justice :: Anchor:_____.",
+            "option_a": "War",
+            "option_b": "Hope",
+            "option_c": "Speed",
+            "option_d": "Commerce",
+            "correct_option": "b",
+            "explanation": "Scales are a symbol of justice, just as an anchor is a traditional symbol of hope and stability.",
+            "sort_order": 85
+        },
+        {
+            "question_text": "The monarch must give royal ______ for the bill to become law.",
+            "option_a": "ascent",
+            "option_b": "assent",
+            "option_c": "accent",
+            "option_d": "absent",
+            "correct_option": "b",
+            "explanation": "Assent means official agreement or approval. Ascent is the act of climbing or moving upward.",
+            "sort_order": 86
+        },
+        {
+            "question_text": "The CEO is responsible ___ the company's shareholders.",
+            "option_a": "for",
+            "option_b": "with",
+            "option_c": "of",
+            "option_d": "to",
+            "correct_option": "d",
+            "explanation": "One is responsible 'for' a task but responsible 'to' a person or group (accountable to).",
+            "sort_order": 87
+        },
+        {
+            "question_text": "A corporation planning to 'take over' a rival aims to:",
+            "option_a": "Form a partnership",
+            "option_b": "Assume control of it",
+            "option_c": "Outperform it in sales",
+            "option_d": "Share technology with it",
+            "correct_option": "b",
+            "explanation": "In a business context, 'to take over' a company means to gain control of it, often by buying most of its shares.",
+            "sort_order": 88
+        },
+        {
+            "question_text": "The G20 comprises 19 countries and:",
+            "option_a": "The European Union only",
+            "option_b": "The EU and African Union",
+            "option_c": "The United Nations",
+            "option_d": "The World Bank",
+            "correct_option": "b",
+            "explanation": "The membership includes 19 countries plus the European Union (EU) and African Union (AU).",
+            "sort_order": 89
+        },
+        {
+            "question_text": "NATO Secretary General presiding over the 2025 Summit:",
+            "option_a": "Jens Stoltenberg",
+            "option_b": "Mark Rutte",
+            "option_c": "Kaja Kallas",
+            "option_d": "Boris Johnson",
+            "correct_option": "b",
+            "explanation": "Former Dutch PM Mark Rutte took office as Secretary General on Oct 1, 2024.",
+            "sort_order": 90
+        },
+        {
+            "question_text": "The 2025 ASEAN Summit chairmanship was held by:",
+            "option_a": "Indonesia",
+            "option_b": "Malaysia",
+            "option_c": "Laos",
+            "option_d": "Thailand",
+            "correct_option": "b",
+            "explanation": "Malaysia took over the ASEAN Chairmanship for 2025.",
+            "sort_order": 91
+        },
+        {
+            "question_text": "Alliance formed by Mali, Niger, and Burkina Faso:",
+            "option_a": "G5 Sahel",
+            "option_b": "ECOWAS",
+            "option_c": "Alliance of Sahel States (AES)",
+            "option_d": "Sahel Security Pact",
+            "correct_option": "c",
+            "explanation": "In September 2023, the military juntas of Mali, Niger, and Burkina Faso signed a mutual defense pact, creating the Alliance of Sahel States (AES).",
+            "sort_order": 92
+        },
+        {
+            "question_text": "Who served as the Caretaker Prime Minister for the 2024 elections?",
+            "option_a": "Nasir-ul-Mulk",
+            "option_b": "Anwaar-ul-Haq Kakar",
+            "option_c": "Moeenuddin Ahmad Qureshi",
+            "option_d": "Mohsin Naqvi",
+            "correct_option": "b",
+            "explanation": "Anwaar-ul-Haq Kakar, a senator from Balochistan, was appointed as the 8th Caretaker Prime Minister to oversee the elections.",
+            "sort_order": 93
+        },
+        {
+            "question_text": "What is the sum of the first five composite numbers?",
+            "option_a": "27",
+            "option_b": "30",
+            "option_c": "37",
+            "option_d": "40",
+            "correct_option": "c",
+            "explanation": "The first five composite numbers are 4, 6, 8, 9, and 10. Their sum is 4 + 6 + 8 + 9 + 10 = 37.",
+            "sort_order": 94
+        },
+        {
+            "question_text": "Runners on a circular track lap in 20, 30, and 35 seconds. When do they meet at the start?",
+            "option_a": "360 seconds",
+            "option_b": "420 seconds",
+            "option_c": "450 seconds",
+            "option_d": "700 seconds",
+            "correct_option": "b",
+            "explanation": "The time they meet is the LCM of their individual lap times. LCM(20, 30, 35) = 420 seconds, which is 7 minutes.",
+            "sort_order": 95
+        },
+        {
+            "question_text": "The Nisab for Ushr on agricultural produce is:",
+            "option_a": "1 Wasq",
+            "option_b": "5 Wasq",
+            "option_c": "10 Wasq",
+            "option_d": "40 Wasq",
+            "correct_option": "b",
+            "explanation": "The minimum threshold for Ushr to be applicable on agricultural produce is 5 Wasq, which is approximately 653 kg.",
+            "sort_order": 96
+        },
+        {
+            "question_text": "At 40 km\/hr, a train is 11 min late. At 50 km\/hr, it is 5 min late. Correct travel time is:",
+            "option_a": "15 minutes",
+            "option_b": "17 minutes",
+            "option_c": "19 minutes",
+            "option_d": "21 minutes",
+            "correct_option": "c",
+            "explanation": "Let distance=D, time=T. D\/40 = T+11\/60 and D\/50 = T+5\/60. Solving these equations for T gives T = 19\/60 hours, which is 19 minutes.",
+            "sort_order": 97
+        },
+        {
+            "question_text": "'Rekhta ke tumhi ustad nahi ho Ghalib' is a famous tribute by Ghalib to:",
+            "option_a": "Zauq",
+            "option_b": "Momin",
+            "option_c": "Sauda",
+            "option_d": "Mir",
+            "correct_option": "d",
+            "explanation": "This verse from a Ghalib ghazal acknowledges Mir Taqi Mir as the ultimate master of Rekhta (an early name for Urdu), stating 'You are not the only master of Rekhta, Ghalib; they say there was a certain Mir in times past'.",
+            "sort_order": 98
+        },
+        {
+            "question_text": "Shibli Nomani's unfinished masterpiece on Prophet Muhammad's life is:",
+            "option_a": "Al-Kalam",
+            "option_b": "Sher-ul-Ajam",
+            "option_c": "Sirat-un-Nabi",
+            "option_d": "Mawazna Anees-o-Dabeer",
+            "correct_option": "c",
+            "explanation": "'Sirat-un-Nabi' is Shibli's magnum opus, a biography of Prophet Muhammad (PBUH), which was left unfinished at his death and completed by his student, Sulaiman Nadvi.",
+            "sort_order": 99
+        },
+        {
+            "question_text": "جملے میں خط کشیدہ لفظ کیا ہے: 'تم اپنا سبق یاد کرو'۔",
+            "option_a": "اسم",
+            "option_b": "فعل",
+            "option_c": "حرف",
+            "option_d": "ضمیر",
+            "correct_option": "b",
+            "explanation": "لفظ 'کرو' ایک کام کرنے کا حکم ظاہر کر رہا ہے، لہذا یہ فعل امر ہے۔",
+            "sort_order": 100
+        }
+    ]
+}

@@ -1,0 +1,1011 @@
+{
+    "slug": "mock-test-4",
+    "total_questions": 100,
+    "name": "Mock Test 4",
+    "exam_type": "ppsc",
+    "duration_minutes": 100,
+    "negative_marking_value": 0.25,
+    "has_negative_marking": true,
+    "questions": [
+        {
+            "question_text": "Which Navratan was Akbar's renowned Finance Minister:",
+            "option_a": "Abul Fazl",
+            "option_b": "Faizi",
+            "option_c": "Birbal",
+            "option_d": "Raja Todar Mal",
+            "correct_option": "d",
+            "explanation": "Raja Todar Mal was the 'Mushrif-i-Diwan' (Finance Minister",
+            "sort_order": 1
+        },
+        {
+            "question_text": "Cabinet Mission rejected the direct demand for a ____:",
+            "option_a": "United India",
+            "option_b": "Separate Pakistan",
+            "option_c": "Dominion Status",
+            "option_d": "Provincial Autonomy",
+            "correct_option": "b",
+            "explanation": "The plan recommended a three-tiered structure but rejected the creation of a separate Pakistan.",
+            "sort_order": 2
+        },
+        {
+            "question_text": "Objectives Resolution was passed on:",
+            "option_a": "March 12, 1949",
+            "option_b": "August 14, 1947",
+            "option_c": "October 16, 1951",
+            "option_d": "September 11, 1948",
+            "correct_option": "a",
+            "explanation": "The Objectives Resolution was passed by the Constituent Assembly of Pakistan on March 12, 1949.",
+            "sort_order": 3
+        },
+        {
+            "question_text": "First 'Sahib-e-Diwan' Urdu poet:",
+            "option_a": "Mir Taqi Mir",
+            "option_b": "Wali Deccani",
+            "option_c": "Ghalib",
+            "option_d": "Quli Qutb Shah",
+            "correct_option": "d",
+            "explanation": "Sultan Muhammad Quli Qutb Shah is credited with being the first poet to compile a 'diwan' (poetry collection",
+            "sort_order": 4
+        },
+        {
+            "question_text": "Deoband is a town in ____ district:",
+            "option_a": "Lucknow",
+            "option_b": "Meerut",
+            "option_c": "Aligarh",
+            "option_d": "Saharanpur",
+            "correct_option": "d",
+            "explanation": "Darul Uloom is located in the town of Deoband in the Saharanpur district, Uttar Pradesh.",
+            "sort_order": 5
+        },
+        {
+            "question_text": "Provincial autonomy was introduced in ____ Governor's provinces:",
+            "option_a": "9",
+            "option_b": "10",
+            "option_c": "11",
+            "option_d": "12",
+            "correct_option": "c",
+            "explanation": "The Act granted autonomy to the eleven provinces of British India starting from 1937.",
+            "sort_order": 6
+        },
+        {
+            "question_text": "The term 'Darul Uloom' directly translates to:",
+            "option_a": "House of Knowledge",
+            "option_b": "Path of Faith",
+            "option_c": "Garden of Scholars",
+            "option_d": "Fortress of Islam",
+            "correct_option": "a",
+            "explanation": "In Arabic, 'Dar' means house and 'Uloom' (plural of Ilm",
+            "sort_order": 7
+        },
+        {
+            "question_text": "Total number of Basic Democrats in the electoral college:",
+            "option_a": "40,000",
+            "option_b": "60,000",
+            "option_c": "80,000",
+            "option_d": "100,000",
+            "correct_option": "c",
+            "explanation": "The Basic Democracies system initially established an electoral college of 80,000 members to elect the President and assembly members.",
+            "sort_order": 8
+        },
+        {
+            "question_text": "Sir Syed was promoted to Sadr Amin (Chief Judge) in:",
+            "option_a": "1841",
+            "option_b": "1846",
+            "option_c": "1850",
+            "option_d": "1855",
+            "correct_option": "a",
+            "explanation": "After serving as a Munsif, he was promoted to the post of Sadr Amin in Bijnor in 1841.",
+            "sort_order": 9
+        },
+        {
+            "question_text": "The first Nazim (Director) of Nadwa-tul-Ulema was:",
+            "option_a": "Shibli Nomani",
+            "option_b": "Syed Sulaiman Nadvi",
+            "option_c": "Muhammad Ali Mungeri",
+            "option_d": "Abdul Haq",
+            "correct_option": "c",
+            "explanation": "Maulana Syed Muhammad Ali Mungeri was the first Nazim (Director",
+            "sort_order": 10
+        },
+        {
+            "question_text": "The ruins of Taxila are in which province:",
+            "option_a": "Khyber Pakhtunkhwa",
+            "option_b": "Balochistan",
+            "option_c": "Punjab",
+            "option_d": "Sindh",
+            "correct_option": "c",
+            "explanation": "The ancient archaeological sites of Taxila are located in the Rawalpindi District of Pakistan's Punjab province.",
+            "sort_order": 11
+        },
+        {
+            "question_text": "Number of stanzas in National Anthem:",
+            "option_a": "Two",
+            "option_b": "Three",
+            "option_c": "Four",
+            "option_d": "Five",
+            "correct_option": "b",
+            "explanation": "The National Anthem of Pakistan consists of three stanzas.",
+            "sort_order": 12
+        },
+        {
+            "question_text": "Total height of Minar-e-Pakistan from its base is approximately:",
+            "option_a": "60 meters",
+            "option_b": "70 meters",
+            "option_c": "80 meters",
+            "option_d": "90 meters",
+            "correct_option": "b",
+            "explanation": "The total height of Minar-e-Pakistan is approximately 70 meters (230 ft) above the ground.",
+            "sort_order": 13
+        },
+        {
+            "question_text": "Gandhi participated in the 1944 Jinnah talks in his:",
+            "option_a": "Role as Congress President",
+            "option_b": "Official capacity as negotiator",
+            "option_c": "Mandate from the Viceroy",
+            "option_d": "Individual or personal capacity",
+            "correct_option": "d",
+            "explanation": "At the time, Gandhi held no official post within the Indian National Congress and negotiated in his personal capacity.",
+            "sort_order": 14
+        },
+        {
+            "question_text": "The 1945-46 elections were essentially considered a referendum on:",
+            "option_a": "The Cripps Mission proposals",
+            "option_b": "The demand for Pakistan",
+            "option_c": "The Quit India Movement",
+            "option_d": "Provincial autonomy",
+            "correct_option": "b",
+            "explanation": "The Muslim League contested the elections on the single-point agenda of creating a separate homeland, Pakistan, making the results a test of this demand.",
+            "sort_order": 15
+        },
+        {
+            "question_text": "Who is considered the first 'Sahib-e-Diwan' poet of Urdu:",
+            "option_a": "Wali Deccani",
+            "option_b": "Mir Taqi Mir",
+            "option_c": "Muhammad Quli Qutb Shah",
+            "option_d": "Amir Khusrow",
+            "correct_option": "c",
+            "explanation": "Muhammad Quli Qutb Shah, the ruler of Golkonda, was the first poet to compile a 'Diwan' (collection of poems",
+            "sort_order": 16
+        },
+        {
+            "question_text": "The title 'Ambassador of Unity' was given by:",
+            "option_a": "Annie Besant",
+            "option_b": "Lord Chelmsford",
+            "option_c": "Mahatma Gandhi",
+            "option_d": "Sarojini Naidu",
+            "correct_option": "d",
+            "explanation": "Sarojini Naidu bestowed this title upon Jinnah for his instrumental role in the Lucknow Pact.",
+            "sort_order": 17
+        },
+        {
+            "question_text": "MAO College became Aligarh Muslim University in:",
+            "option_a": "1906",
+            "option_b": "1911",
+            "option_c": "1920",
+            "option_d": "1925",
+            "correct_option": "c",
+            "explanation": "MAO College was granted the status of a central university by the Aligarh Muslim University Act in 1920.",
+            "sort_order": 18
+        },
+        {
+            "question_text": "Language of Pakistan's National Anthem:",
+            "option_a": "Urdu",
+            "option_b": "Persian",
+            "option_c": "Arabic",
+            "option_d": "Punjabi",
+            "correct_option": "b",
+            "explanation": "The anthem is in a highly Persianized vocabulary, with only one word, 'ka,' in Urdu.",
+            "sort_order": 19
+        },
+        {
+            "question_text": "The official state emblem of Ireland is a:",
+            "option_a": "Shamrock",
+            "option_b": "Celtic Cross",
+            "option_c": "Harp",
+            "option_d": "Claddagh Ring",
+            "correct_option": "c",
+            "explanation": "While the shamrock is a famous symbol, the Brian Boru Harp is the official heraldic emblem of Ireland.",
+            "sort_order": 20
+        },
+        {
+            "question_text": "Human Rights Watch (HRW) was originally founded under the name:",
+            "option_a": "Helsinki Watch",
+            "option_b": "Americas Watch",
+            "option_c": "Asia Watch",
+            "option_d": "Global Rights Monitor",
+            "correct_option": "a",
+            "explanation": "HRW began in 1978 as Helsinki Watch, created to monitor the Soviet bloc's compliance with the Helsinki Accords.",
+            "sort_order": 21
+        },
+        {
+            "question_text": "Lake Baikal, known as the 'Pearl of Siberia', is located in which country?",
+            "option_a": "Mongolia",
+            "option_b": "Russia",
+            "option_c": "China",
+            "option_d": "Kazakhstan",
+            "correct_option": "b",
+            "explanation": "Lake Baikal is located in Russia, in the region of Siberia. It is the world's deepest lake and contains about 20% of the world's unfrozen fresh water.",
+            "sort_order": 22
+        },
+        {
+            "question_text": "The official capital of Tanzania is:",
+            "option_a": "Dar es Salaam",
+            "option_b": "Zanzibar City",
+            "option_c": "Arusha",
+            "option_d": "Dodoma",
+            "correct_option": "d",
+            "explanation": "Dodoma is the official capital, though many government offices remain in the former capital, Dar es Salaam.",
+            "sort_order": 23
+        },
+        {
+            "question_text": "What is the capital city of Turkey?",
+            "option_a": "Istanbul",
+            "option_b": "Ankara",
+            "option_c": "Izmir",
+            "option_d": "Antalya",
+            "correct_option": "b",
+            "explanation": "Ankara was declared the capital of Turkey in 1923, replacing the former imperial capital of Istanbul.",
+            "sort_order": 24
+        },
+        {
+            "question_text": "The Strait of Malacca is a vital waterway for ships traveling between which two oceans?",
+            "option_a": "Indian and Pacific",
+            "option_b": "Atlantic and Pacific",
+            "option_c": "Arctic and Atlantic",
+            "option_d": "Indian and Arctic",
+            "correct_option": "a",
+            "explanation": "The Strait of Malacca connects the Indian and Pacific Oceans, facilitating trade between Asia and the rest of the world.",
+            "sort_order": 25
+        },
+        {
+            "question_text": "Otto von Bismarck is famously known as the:",
+            "option_a": "Iron Duke",
+            "option_b": "Iron Chancellor",
+            "option_c": "Great Elector",
+            "option_d": "Sun King",
+            "correct_option": "b",
+            "explanation": "Otto von Bismarck, the first Chancellor of Germany, was called the 'Iron Chancellor' for his 'blood and iron' policy.",
+            "sort_order": 26
+        },
+        {
+            "question_text": "The \"City of a Thousand Minarets\" refers to:",
+            "option_a": "Istanbul",
+            "option_b": "Damascus",
+            "option_c": "Baghdad",
+            "option_d": "Cairo",
+            "correct_option": "d",
+            "explanation": "Cairo, Egypt, earned this nickname for its skyline historically dominated by numerous mosque minarets.",
+            "sort_order": 27
+        },
+        {
+            "question_text": "First UN Secretary-General to resign from office:",
+            "option_a": "Trygve Lie",
+            "option_b": "Dag Hammarskjöld",
+            "option_c": "U Thant",
+            "option_d": "Kurt Waldheim",
+            "correct_option": "a",
+            "explanation": "Trygve Lie of Norway resigned in 1952 due to Soviet opposition following the UN's intervention in the Korean War.",
+            "sort_order": 28
+        },
+        {
+            "question_text": "The annual Human Development Report is a flagship publication of the:",
+            "option_a": "World Bank",
+            "option_b": "IMF",
+            "option_c": "UNICEF",
+            "option_d": "UNDP",
+            "correct_option": "d",
+            "explanation": "The United Nations Development Programme (UNDP) publishes the Human Development Report, which includes the widely cited Human Development Index (HDI).",
+            "sort_order": 29
+        },
+        {
+            "question_text": "Which EU member state is not part of the Schengen Area?",
+            "option_a": "Poland",
+            "option_b": "Hungary",
+            "option_c": "Ireland",
+            "option_d": "Greece",
+            "correct_option": "c",
+            "explanation": "Ireland is a member of the EU but has opted-out of the Schengen Area, which allows for passport-free travel.",
+            "sort_order": 30
+        },
+        {
+            "question_text": "Which city hosted the Olympic Games twice, first in 1964 and again in 2020?",
+            "option_a": "Los Angeles",
+            "option_b": "London",
+            "option_c": "Tokyo",
+            "option_d": "Paris",
+            "correct_option": "c",
+            "explanation": "Tokyo hosted the Olympic Games in 1964 and again in 2020 (held in 2021 due to the pandemic).",
+            "sort_order": 31
+        },
+        {
+            "question_text": "The largest river flowing into the Caspian Sea is:",
+            "option_a": "Volga River",
+            "option_b": "Ural River",
+            "option_c": "Danube River",
+            "option_d": "Amu Darya",
+            "correct_option": "a",
+            "explanation": "The Volga River, the longest in Europe, provides approximately 80% of the Caspian Sea's inflow.",
+            "sort_order": 32
+        },
+        {
+            "question_text": "Which country was NOT a major member of the Allied Powers during World War II?",
+            "option_a": "Germany",
+            "option_b": "United States",
+            "option_c": "Soviet Union",
+            "option_d": "Great Britain",
+            "correct_option": "a",
+            "explanation": "Germany was a major Axis power during World War II, opposing the Allied Powers.",
+            "sort_order": 33
+        },
+        {
+            "question_text": "Both North and South Korea use which currency name?",
+            "option_a": "Yen",
+            "option_b": "Hwan",
+            "option_c": "Won",
+            "option_d": "Mun",
+            "correct_option": "c",
+            "explanation": "Both the Republic of Korea (South) and the DPRK (North) use currencies named 'Won', although they are separate and not interchangeable.",
+            "sort_order": 34
+        },
+        {
+            "question_text": "Which of these countries has its parliament named 'Majlis'?",
+            "option_a": "Spain",
+            "option_b": "Russia",
+            "option_c": "Iran",
+            "option_d": "Israel",
+            "correct_option": "c",
+            "explanation": "Majlis refers to the Islamic Consultative Assembly of Iran.",
+            "sort_order": 35
+        },
+        {
+            "question_text": "Which explorer's route to the East significantly undermined Venice's control of the spice trade?",
+            "option_a": "Christopher Columbus",
+            "option_b": "Ferdinand Magellan",
+            "option_c": "Vasco da Gama",
+            "option_d": "Marco Polo",
+            "correct_option": "c",
+            "explanation": "Vasco da Gama's sea route to India allowed Portugal to bypass Venetian trading monopolies.",
+            "sort_order": 36
+        },
+        {
+            "question_text": "'Rose spots' on the abdomen are a classic rash associated with:",
+            "option_a": "Measles",
+            "option_b": "Scarlet Fever",
+            "option_c": "Typhoid Fever",
+            "option_d": "Dengue Fever",
+            "correct_option": "c",
+            "explanation": "Faint, salmon-colored macules on the trunk and abdomen are a characteristic sign in the second week of typhoid.",
+            "sort_order": 37
+        },
+        {
+            "question_text": "In C4 plants, the initial CO2 fixation occurs in:",
+            "option_a": "Bundle sheath cells",
+            "option_b": "Mesophyll cells",
+            "option_c": "Guard cells",
+            "option_d": "Vascular tissue",
+            "correct_option": "b",
+            "explanation": "C4 plants use PEP carboxylase in mesophyll cells to initially fix CO2 into a 4-carbon compound before the Calvin cycle.",
+            "sort_order": 38
+        },
+        {
+            "question_text": "Jabir's 'Theory of Balance' in alchemy was based on:",
+            "option_a": "Arabic numerology",
+            "option_b": "Greek elements",
+            "option_c": "Astrological signs",
+            "option_d": "Atomic weights",
+            "correct_option": "a",
+            "explanation": "His 'Mizan' (Balance) theory linked the four classical qualities (hot, cold, moist, dry) to a system based on Arabic letters and numbers.",
+            "sort_order": 39
+        },
+        {
+            "question_text": "What is the most likely fate of a small asteroid?",
+            "option_a": "To become a black hole",
+            "option_b": "To form a new planet",
+            "option_c": "To burn up in a planet's atmosphere as a meteor",
+            "option_d": "To become a comet",
+            "correct_option": "c",
+            "explanation": "Small asteroids often burn up in a planet's atmosphere, creating a meteor or shooting star.",
+            "sort_order": 40
+        },
+        {
+            "question_text": "The 5G feature for creating virtual networks on one physical infrastructure is:",
+            "option_a": "Beamforming",
+            "option_b": "Network Slicing",
+            "option_c": "Edge Computing",
+            "option_d": "Carrier Aggregation",
+            "correct_option": "b",
+            "explanation": "Network slicing allows operators to partition network resources to serve different applications with specific performance requirements (e.g., speed, latency).",
+            "sort_order": 41
+        },
+        {
+            "question_text": "Densest naturally occurring element known:",
+            "option_a": "Platinum",
+            "option_b": "Iridium",
+            "option_c": "Osmium",
+            "option_d": "Gold",
+            "correct_option": "c",
+            "explanation": "Osmium has the highest density of any naturally occurring element, approximately 22.59 g\/cm³.",
+            "sort_order": 42
+        },
+        {
+            "question_text": "Which of the following is a key characteristic of laser light?",
+            "option_a": "Incoherent",
+            "option_b": "Polychromatic",
+            "option_c": "Divergent",
+            "option_d": "Monochromatic",
+            "correct_option": "d",
+            "explanation": "Laser light is monochromatic, meaning it consists of a single wavelength or color.",
+            "sort_order": 43
+        },
+        {
+            "question_text": "Louis Pasteur's work conclusively established the:",
+            "option_a": "Germ theory of disease",
+            "option_b": "Theory of evolution",
+            "option_c": "Cellular theory",
+            "option_d": "Atomic theory",
+            "correct_option": "a",
+            "explanation": "Pasteur's experiments demonstrated that microorganisms (germs) cause fermentation and disease, a foundational concept in modern medicine.",
+            "sort_order": 44
+        },
+        {
+            "question_text": "Irreversible blindness from Vitamin A deficiency is termed:",
+            "option_a": "Glaucoma",
+            "option_b": "Xerophthalmia",
+            "option_c": "Cataracts",
+            "option_d": "Keratoconus",
+            "correct_option": "b",
+            "explanation": "Xerophthalmia is a severe, progressive eye disease from Vitamin A deficiency that can destroy the cornea and lead to total blindness.",
+            "sort_order": 45
+        },
+        {
+            "question_text": "In anemophilous flowers, pollen grains are typically:",
+            "option_a": "Heavy and sticky",
+            "option_b": "Large and spiny",
+            "option_c": "Light and non-sticky",
+            "option_d": "Edible and fragrant",
+            "correct_option": "c",
+            "explanation": "For effective wind dispersal, pollen must be lightweight to be carried by air currents and non-sticky to be released easily.",
+            "sort_order": 46
+        },
+        {
+            "question_text": "Which of the following is a characteristic of LASER light that makes it useful in barcode scanners?",
+            "option_a": "High divergence",
+            "option_b": "Low coherence",
+            "option_c": "High intensity and focusability",
+            "option_d": "Variable wavelength",
+            "correct_option": "c",
+            "explanation": "The high intensity and focusability of laser light allow for precise scanning and reading of barcodes.",
+            "sort_order": 47
+        },
+        {
+            "question_text": "The Haber-Bosch process synthesizes which crucial industrial gas?",
+            "option_a": "Chlorine",
+            "option_b": "Ammonia",
+            "option_c": "Hydrogen",
+            "option_d": "Oxygen",
+            "correct_option": "b",
+            "explanation": "The Haber-Bosch process is a vital industrial method for producing ammonia (NH₃) from nitrogen and hydrogen, primarily for manufacturing fertilizers.",
+            "sort_order": 48
+        },
+        {
+            "question_text": "Production of red blood cells is stimulated by:",
+            "option_a": "Thrombopoietin",
+            "option_b": "Erythropoietin",
+            "option_c": "Leukopoietin",
+            "option_d": "Glucagon",
+            "correct_option": "b",
+            "explanation": "Erythropoietin (EPO), a hormone produced mainly by the kidneys, stimulates the bone marrow to produce red blood cells.",
+            "sort_order": 49
+        },
+        {
+            "question_text": "Which layer of the skin contains melanocytes, the cells responsible for producing pigment?",
+            "option_a": "Epidermis",
+            "option_b": "Dermis",
+            "option_c": "Hypodermis",
+            "option_d": "Subcutaneous fat",
+            "correct_option": "a",
+            "explanation": "Melanocytes are located in the epidermis.",
+            "sort_order": 50
+        },
+        {
+            "question_text": "Samuel Colt is famously associated with the invention of the:",
+            "option_a": "Rifle",
+            "option_b": "Revolver",
+            "option_c": "Gatling Gun",
+            "option_d": "Musket",
+            "correct_option": "b",
+            "explanation": "Samuel Colt patented the first commercially successful revolving-cylinder firearm, the Colt Paterson, in 1836.",
+            "sort_order": 51
+        },
+        {
+            "question_text": "What is the approximate size range of asteroids?",
+            "option_a": "From millimeters to hundreds of kilometers",
+            "option_b": "Always smaller than 1 meter in diameter",
+            "option_c": "Always larger than planets",
+            "option_d": "From light-years to parsecs",
+            "correct_option": "a",
+            "explanation": "Asteroids range in size from very small, just millimeters across, to hundreds of kilometers in diameter (like Ceres).",
+            "sort_order": 52
+        },
+        {
+            "question_text": "Before marriage, Khadija (RA) was known by the title:",
+            "option_a": "As-Siddiqa",
+            "option_b": "At-Tahira",
+            "option_c": "Az-Zahra",
+            "option_d": "Al-Humayra",
+            "correct_option": "b",
+            "explanation": "Due to her impeccable character and piety, Khadija (RA) was widely known in Meccan society by the title 'At-Tahira' (The Pure One).",
+            "sort_order": 53
+        },
+        {
+            "question_text": "For which Prophet was iron made soft like wax?",
+            "option_a": "Prophet Sulaiman (A.S.)",
+            "option_b": "Prophet Dawood (A.S.)",
+            "option_c": "Prophet Musa (A.S.)",
+            "option_d": "Prophet Isa (A.S.)",
+            "correct_option": "b",
+            "explanation": "Allah granted Prophet Dawood (A.S.) the miracle of molding iron with his bare hands to make chainmail armor.",
+            "sort_order": 54
+        },
+        {
+            "question_text": "A Hadith collection that includes traditions on all eight major topics is called a:",
+            "option_a": "Sunan",
+            "option_b": "Musnad",
+            "option_c": "Jami'",
+            "option_d": "Mu'jam",
+            "correct_option": "c",
+            "explanation": "A 'Jami'' is a comprehensive collection covering topics like beliefs, rulings, history, ethics, Quranic exegesis, trials, and virtues. Sahih al-Bukhari is a prime example.",
+            "sort_order": 55
+        },
+        {
+            "question_text": "Harun al-Rashid's influential wife, known for public works:",
+            "option_a": "Zubaidah bint Ja'far",
+            "option_b": "Khayzuran",
+            "option_c": "Buran bint al-Hasan",
+            "option_d": "Ulayya bint al-Mahdi",
+            "correct_option": "a",
+            "explanation": "Zubaidah, granddaughter of Caliph Al-Mansur, was Harun al-Rashid's wife and is famous for sponsoring a series of wells and stations on the pilgrimage route to Makkah.",
+            "sort_order": 56
+        },
+        {
+            "question_text": "Which book of the Sihah Sitta is particularly noted for its focus on Ahadith of legal rulings (Ahkam)?",
+            "option_a": "Jami' at-Tirmidhi",
+            "option_b": "Sahih al-Bukhari",
+            "option_c": "Sunan Abu Dawood",
+            "option_d": "Sunan Ibn Majah",
+            "correct_option": "c",
+            "explanation": "Sunan Abu Dawood is renowned for its comprehensive collection of narrations directly pertaining to Islamic jurisprudence (Fiqh).",
+            "sort_order": 57
+        },
+        {
+            "question_text": "The Ridda campaign in Oman was successfully led by:",
+            "option_a": "Hudhayfah ibn Mihsan",
+            "option_b": "Shurahbil ibn Hasana",
+            "option_c": "Khalid ibn al-Walid",
+            "option_d": "Amr ibn al-As",
+            "correct_option": "a",
+            "explanation": "Hudhayfah ibn Mihsan and Arfaja al-Bariqi were the primary commanders sent to quell the apostasy in Oman.",
+            "sort_order": 58
+        },
+        {
+            "question_text": "The first purely Islamic coins, replacing Byzantine designs, were issued by:",
+            "option_a": "Abd al-Malik ibn Marwan",
+            "option_b": "Muawiyah I",
+            "option_c": "Walid I",
+            "option_d": "Hisham ibn Abd al-Malik",
+            "correct_option": "a",
+            "explanation": "Caliph Abd al-Malik (father of Walid I) initiated the coinage reform, issuing the first dinars with Arabic script and Islamic declarations.",
+            "sort_order": 59
+        },
+        {
+            "question_text": "Jami' at-Tirmidhi is uniquely distinguished for its comments on:",
+            "option_a": "Scientific miracles",
+            "option_b": "Historical context",
+            "option_c": "Linguistic analysis of words",
+            "option_d": "The grade of each Hadith",
+            "correct_option": "d",
+            "explanation": "Imam at-Tirmidhi's work is renowned because after quoting a hadith, he often commented on its level of authenticity (e.g., Sahih, Hasan, Da'if).",
+            "sort_order": 60
+        },
+        {
+            "question_text": "Prophet Suleiman (AS) built the famous religious structure known as:",
+            "option_a": "The Kaaba",
+            "option_b": "Haikal Sulaimani",
+            "option_c": "Masjid Al-Aqsa",
+            "option_d": "The Dome of the Rock",
+            "correct_option": "b",
+            "explanation": "Haikal Sulaimani, or the Temple of Solomon, was the grand place of worship constructed by Prophet Suleiman (AS) in Jerusalem.",
+            "sort_order": 61
+        },
+        {
+            "question_text": "Prominent Persian vizier family that fell from power under Harun al-Rashid:",
+            "option_a": "The Samanids",
+            "option_b": "The Barmakids",
+            "option_c": "The Buyids",
+            "option_d": "The Tulunids",
+            "correct_option": "b",
+            "explanation": "The Barmakid family held immense power as viziers before their sudden and dramatic downfall in 803 CE.",
+            "sort_order": 62
+        },
+        {
+            "question_text": "The full name of Imam Bukhari is:",
+            "option_a": "Muslim ibn al-Hajjaj",
+            "option_b": "Ahmad ibn Hanbal",
+            "option_c": "Muhammad ibn Ismail",
+            "option_d": "Malik ibn Anas",
+            "correct_option": "c",
+            "explanation": "Imam Bukhari's full name is Abu Abdullah Muhammad ibn Ismail ibn Ibrahim ibn al-Mughirah al-Ju'fi al-Bukhari.",
+            "sort_order": 63
+        },
+        {
+            "question_text": "The Prophet's (PBUH) funeral prayer (Salat al-Janazah) was offered:",
+            "option_a": "In Baqi cemetery",
+            "option_b": "Led by Abu Bakr (RA)",
+            "option_c": "In groups without an Imam",
+            "option_d": "Led by Ali ibn Abi Talib (RA)",
+            "correct_option": "c",
+            "explanation": "Due to his unique status, no single person led the Janazah. Companions entered the Hujra in small groups and prayed individually.",
+            "sort_order": 64
+        },
+        {
+            "question_text": "The complete Muslim conquest of Armenia and Azerbaijan occurred during his caliphate in:",
+            "option_a": "25 AH",
+            "option_b": "28 AH",
+            "option_c": "31 AH",
+            "option_d": "34 AH",
+            "correct_option": "a",
+            "explanation": "Around 25 AH (646 AD), Muslim armies under leaders like Salman ibn Rabia al-Bahili completed the conquest of these Caucasian regions.",
+            "sort_order": 65
+        },
+        {
+            "question_text": "In LED displays, what does the 'D' stand for?",
+            "option_a": "Display",
+            "option_b": "Diode",
+            "option_c": "Digital",
+            "option_d": "Device",
+            "correct_option": "b",
+            "explanation": "In LED, 'D' stands for Diode. LED stands for Light Emitting Diode.",
+            "sort_order": 66
+        },
+        {
+            "question_text": "Key action to update a Pivot Table's data:",
+            "option_a": "Recalculate",
+            "option_b": "Refresh",
+            "option_c": "Rebuild",
+            "option_d": "Reload",
+            "correct_option": "b",
+            "explanation": "Pivot Tables must be manually 'Refreshed' to reflect changes made to the source data.",
+            "sort_order": 67
+        },
+        {
+            "question_text": "What is the capacity of a memory storage device that holds 2^40 bytes?",
+            "option_a": "1 GB",
+            "option_b": "1 TB",
+            "option_c": "1 PB",
+            "option_d": "1 EB",
+            "correct_option": "b",
+            "explanation": "2^10 bytes = 1KB, 2^20 bytes = 1MB, 2^30 bytes = 1GB, 2^40 bytes = 1TB.",
+            "sort_order": 68
+        },
+        {
+            "question_text": "What result will '=SUM(1,TRUE,2)' produce in MS Excel?",
+            "option_a": "3",
+            "option_b": "4",
+            "option_c": "Error",
+            "option_d": "0",
+            "correct_option": "b",
+            "explanation": "In Excel, TRUE is treated as 1, so the formula '=SUM(1,TRUE,2)' will return 1+1+2=4.",
+            "sort_order": 69
+        },
+        {
+            "question_text": "Which protocol is used for secure web browsing?",
+            "option_a": "HTTP",
+            "option_b": "FTP",
+            "option_c": "HTTPS",
+            "option_d": "SMTP",
+            "correct_option": "c",
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) ensures encrypted communication between a web browser and a web server.",
+            "sort_order": 70
+        },
+        {
+            "question_text": "Key combination to select the current entire row:",
+            "option_a": "Ctrl + Space",
+            "option_b": "Alt + Space",
+            "option_c": "Shift + Space",
+            "option_d": "Ctrl + R",
+            "correct_option": "c",
+            "explanation": "Shift + Spacebar is the keyboard shortcut to select the entire row of the active cell.",
+            "sort_order": 71
+        },
+        {
+            "question_text": "Formula =IF(OR(FALSE, 1<0), 10, 20) returns:",
+            "option_a": "10",
+            "option_b": "20",
+            "option_c": "FALSE",
+            "option_d": "TRUE",
+            "correct_option": "b",
+            "explanation": "OR(FALSE, FALSE",
+            "sort_order": 72
+        },
+        {
+            "question_text": "Integrated circuits for ALU and CU defined the:",
+            "option_a": "First Generation",
+            "option_b": "Second Generation",
+            "option_c": "Third Generation",
+            "option_d": "Fourth Generation",
+            "correct_option": "c",
+            "explanation": "The third generation of computers (c. 1965-1971",
+            "sort_order": 73
+        },
+        {
+            "question_text": "Tool for multi-line text in one cell:",
+            "option_a": "Wrap Text",
+            "option_b": "Merge & Center",
+            "option_c": "Text to Columns",
+            "option_d": "Justify",
+            "correct_option": "a",
+            "explanation": "Wrap Text makes all content visible within a cell by displaying it on multiple lines.",
+            "sort_order": 74
+        },
+        {
+            "question_text": "Which of the following is a characteristic of fifth-generation computers?",
+            "option_a": "Use of vacuum tubes",
+            "option_b": "Use of transistors",
+            "option_c": "Artificial Intelligence",
+            "option_d": "Batch Processing",
+            "correct_option": "c",
+            "explanation": "Fifth-generation computers are defined by their focus on artificial intelligence, natural language processing, and other advanced computing concepts.",
+            "sort_order": 75
+        },
+        {
+            "question_text": "By default, the Recycle Bin's size is a percentage of:",
+            "option_a": "The total hard drive capacity",
+            "option_b": "The specific volume's capacity",
+            "option_c": "The computer's installed RAM",
+            "option_d": "The system page file size",
+            "correct_option": "b",
+            "explanation": "The Recycle Bin's size is configured per-volume (per-drive). For modern drives, it's typically 10% of the first 40GB and 5% of the space above that.",
+            "sort_order": 76
+        },
+        {
+            "question_text": "His diet is deficient ___ essential nutrients.",
+            "option_a": "from",
+            "option_b": "of",
+            "option_c": "in",
+            "option_d": "with",
+            "correct_option": "c",
+            "explanation": "The adjective 'deficient' is correctly followed by the preposition 'in'.",
+            "sort_order": 77
+        },
+        {
+            "question_text": "Had I known the truth, I ___ differently.",
+            "option_a": "would have acted",
+            "option_b": "would act",
+            "option_c": "will act",
+            "option_d": "had acted",
+            "correct_option": "a",
+            "explanation": "This is an inverted third conditional sentence structure, used for unreal past situations. The result clause requires 'would have + past participle'.",
+            "sort_order": 78
+        },
+        {
+            "question_text": "A Mandoline is a specialized culinary tool primarily used for:",
+            "option_a": "Grinding spices",
+            "option_b": "Kneading dough",
+            "option_c": "Whisking sauces",
+            "option_d": "Slicing vegetables",
+            "correct_option": "d",
+            "explanation": "A mandoline is a kitchen utensil used for precisely slicing and julienning vegetables and fruits.",
+            "sort_order": 79
+        },
+        {
+            "question_text": "Passive voice of 'Do not insult the weak':",
+            "option_a": "Let the weak not be insulted.",
+            "option_b": "Let not the weak be insulted.",
+            "option_c": "The weak should not be insulted.",
+            "option_d": "Let the weak be not insulted.",
+            "correct_option": "a",
+            "explanation": "In a negative imperative sentence, the standard passive structure is 'Let + object + not + be + V3'. Placing 'not' before 'be' is the correct modern syntax.",
+            "sort_order": 80
+        },
+        {
+            "question_text": "Complete the proverb: 'You can't make an omelette without breaking a few ____.'",
+            "option_a": "rules",
+            "option_b": "dishes",
+            "option_c": "eggs",
+            "option_d": "hearts",
+            "correct_option": "c",
+            "explanation": "This proverb signifies that it is impossible to achieve something important without causing some minor, unavoidable problems or sacrifices.",
+            "sort_order": 81
+        },
+        {
+            "question_text": "The idiom 'to cry wolf' means to:",
+            "option_a": "Call for help in a real emergency",
+            "option_b": "Warn others of imminent danger",
+            "option_c": "Raise a false alarm repeatedly",
+            "option_d": "Bravely face a powerful enemy",
+            "correct_option": "c",
+            "explanation": "From Aesop's fable, it means to call for help when not needed, causing others to disbelieve you in times of real trouble.",
+            "sort_order": 82
+        },
+        {
+            "question_text": "To 'show one's true colors' means to:",
+            "option_a": "Wear a vibrant uniform",
+            "option_b": "Be artistically expressive",
+            "option_c": "Reveal one's real character",
+            "option_d": "Finally state a preference",
+            "correct_option": "c",
+            "explanation": "This idiom means to reveal one's actual nature or personality, as opposed to a feigned one.",
+            "sort_order": 83
+        },
+        {
+            "question_text": "Passive of 'Why did he defraud you?':",
+            "option_a": "Why were you defrauded by him?",
+            "option_b": "Why you were defrauded by him?",
+            "option_c": "Why had you been defrauded by him?",
+            "option_d": "Why was you defrauded by him?",
+            "correct_option": "a",
+            "explanation": "The question word 'Why' remains at the beginning. The simple past 'did defraud' becomes 'were defrauded', and the auxiliary 'were' correctly precedes the subject 'you'.",
+            "sort_order": 84
+        },
+        {
+            "question_text": "A substance used for the killing of birds is an:",
+            "option_a": "Insecticide",
+            "option_b": "Herbicide",
+            "option_c": "Pesticide",
+            "option_d": "Avicide",
+            "correct_option": "d",
+            "explanation": "'Avicide' is a chemical that is toxic to birds, from the Latin 'avis' (bird).",
+            "sort_order": 85
+        },
+        {
+            "question_text": "Ahsan Iqbal was appointed as the minister for which key portfolio?",
+            "option_a": "Commerce",
+            "option_b": "Railways",
+            "option_c": "Planning, Development & Special Initiatives",
+            "option_d": "Economic Affairs",
+            "correct_option": "c",
+            "explanation": "Ahsan Iqbal, a senior PML-N leader, was appointed as the Minister for Planning, Development and Special Initiatives.",
+            "sort_order": 86
+        },
+        {
+            "question_text": "Party that won the UK General Election in July 2024:",
+            "option_a": "Conservative Party",
+            "option_b": "Labour Party",
+            "option_c": "Liberal Democrats",
+            "option_d": "Reform UK",
+            "correct_option": "b",
+            "explanation": "The Labour Party won a landslide victory, ending 14 years of Conservative rule.",
+            "sort_order": 87
+        },
+        {
+            "question_text": "The monarch's formal approval of legislation is known as:",
+            "option_a": "Royal Proclamation",
+            "option_b": "Letters Patent",
+            "option_c": "Royal Assent",
+            "option_d": "Order in Council",
+            "correct_option": "c",
+            "explanation": "Royal Assent is the final step required for a parliamentary bill to become law (an Act of Parliament).",
+            "sort_order": 88
+        },
+        {
+            "question_text": "Shajar Abbas reached the final of which event at CWG 2022?",
+            "option_a": "100m sprint",
+            "option_b": "200m sprint",
+            "option_c": "400m sprint",
+            "option_d": "110m hurdles",
+            "correct_option": "b",
+            "explanation": "Pakistani sprinter Shajar Abbas qualified for the final of the men's 200m race at the 2022 Commonwealth Games, a significant athletic achievement.",
+            "sort_order": 89
+        },
+        {
+            "question_text": "Acting Prime Minister of the Afghan interim government:",
+            "option_a": "Mohammad Hasan Akhund",
+            "option_b": "Abdul Salam Hanafi",
+            "option_c": "Abdul Ghani Baradar",
+            "option_d": "Amir Khan Muttaqi",
+            "correct_option": "a",
+            "explanation": "Mullah Mohammad Hasan Akhund was appointed as the acting Prime Minister in the Taliban's interim government in September 2021.",
+            "sort_order": 90
+        },
+        {
+            "question_text": "The permanent secretariat of ASEAN is located in:",
+            "option_a": "Jakarta",
+            "option_b": "Bangkok",
+            "option_c": "Singapore",
+            "option_d": "Kuala Lumpur",
+            "correct_option": "a",
+            "explanation": "The headquarters and permanent secretariat of the Association of Southeast Asian Nations (ASEAN) is located in Jakarta, Indonesia.",
+            "sort_order": 91
+        },
+        {
+            "question_text": "The supplement of the complement of 40° is:",
+            "option_a": "50°",
+            "option_b": "130°",
+            "option_c": "140°",
+            "option_d": "230°",
+            "correct_option": "b",
+            "explanation": "The complement of 40° is 50°. The supplement of 50° is 180° - 50° = 130°.",
+            "sort_order": 92
+        },
+        {
+            "question_text": "The fraction 11\/16 expressed as a percentage is:",
+            "option_a": "68.75%",
+            "option_b": "65.25%",
+            "option_c": "70.50%",
+            "option_d": "11.16%",
+            "correct_option": "a",
+            "explanation": "To convert a fraction to a percentage, multiply by 100. (11\/16) * 100 = 1100\/16 = 68.75%.",
+            "sort_order": 93
+        },
+        {
+            "question_text": "Complete the sequence: 0, 7, 26, 63, 124, ?",
+            "option_a": "189",
+            "option_b": "215",
+            "option_c": "216",
+            "option_d": "205",
+            "correct_option": "b",
+            "explanation": "The series follows the pattern n³ - 1 for n=1, 2, 3, 4, 5. The next term is 6³ - 1 = 215.",
+            "sort_order": 94
+        },
+        {
+            "question_text": "Calculate: 10 + [20 - {15 - (10 ÷ 2)}]",
+            "option_a": "0",
+            "option_b": "10",
+            "option_c": "20",
+            "option_d": "30",
+            "correct_option": "c",
+            "explanation": "Solve the innermost bracket first: (10 ÷ 2) = 5. Then {15 - 5} = 10. Then [20 - 10] = 10. Finally, 10 + 10 = 20.",
+            "sort_order": 95
+        },
+        {
+            "question_text": "Three pipes fill 1\/8, 1\/6, and 1\/4 of a tank per hour. Combined fraction filled is:",
+            "option_a": "3\/18",
+            "option_b": "13\/24",
+            "option_c": "1\/2",
+            "option_d": "3\/24",
+            "correct_option": "b",
+            "explanation": "The sum of fractions is 1\/8 + 1\/6 + 1\/4. The LCD is 24. Sum = (3+4+6)\/24 = 13\/24.",
+            "sort_order": 96
+        },
+        {
+            "question_text": "The autobiography of poetess Kishwar Naheed is titled:",
+            "option_a": "Jo Rahi So Bekhabari Rahi",
+            "option_b": "Kaghazi Hai Pairahan",
+            "option_c": "Buri Aurat ki Katha",
+            "option_d": "Raseedi Ticket",
+            "correct_option": "c",
+            "explanation": "'Buri Aurat ki Katha' (The Story of a Bad Woman) is the celebrated and candid autobiography of feminist poet Kishwar Naheed.",
+            "sort_order": 97
+        },
+        {
+            "question_text": "Who is called the first philosophical poet of Urdu?",
+            "option_a": "Mir Dard",
+            "option_b": "Mirza Ghalib",
+            "option_c": "Allama Iqbal",
+            "option_d": "Mir Taqi Mir",
+            "correct_option": "b",
+            "explanation": "Mirza Ghalib is widely recognized as the first Urdu poet to extensively explore deep philosophical and existential themes in his poetry.",
+            "sort_order": 98
+        },
+        {
+            "question_text": "In 'Ek Chadar Maili Si', who marries Rano after her husband's death?",
+            "option_a": "Mangal, her brother-in-law",
+            "option_b": "Tiloka, her husband",
+            "option_c": "Chaudhary Meharban Das",
+            "option_d": "Gyan Chand, the village priest",
+            "correct_option": "a",
+            "explanation": "Following the custom of 'Chadar Andazi', Rano is married to Mangal, the younger brother of her deceased husband, Tiloka.",
+            "sort_order": 99
+        },
+        {
+            "question_text": "The court of Zafar represented the final era of the:",
+            "option_a": "Lucknow School of Poetry",
+            "option_b": "Deccan School of Poetry",
+            "option_c": "Delhi School of Poetry",
+            "option_d": "Progressive Writers' Movement",
+            "correct_option": "c",
+            "explanation": "Bahadur Shah Zafar's court was the last great center of the classical Delhi School (Dabistan-e-Dehli) of Urdu poetry before 1857.",
+            "sort_order": 100
+        }
+    ]
+}

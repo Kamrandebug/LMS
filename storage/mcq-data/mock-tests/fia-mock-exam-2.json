@@ -1,0 +1,1011 @@
+{
+    "slug": "mock-test-2",
+    "total_questions": 100,
+    "name": "Mock Test 2",
+    "exam_type": "fia",
+    "duration_minutes": 90,
+    "negative_marking_value": 0.25,
+    "has_negative_marking": true,
+    "questions": [
+        {
+            "question_text": "The group of 40 Turkish nobles 'Chalisa' was broken by:",
+            "option_a": "Iltutmish",
+            "option_b": "Razia Sultana",
+            "option_c": "Qutb-ud-din Aibak",
+            "option_d": "Ghiyasuddin Balban",
+            "correct_option": "d",
+            "explanation": "Although created by Iltutmish, Balban broke the power of the 'Turkan-i-Chahalgani' (Chalisa",
+            "sort_order": 1
+        },
+        {
+            "question_text": "Nadir Shah was the ruler of:",
+            "option_a": "Persia",
+            "option_b": "Afghanistan",
+            "option_c": "Turkey",
+            "option_d": "Uzbekistan",
+            "correct_option": "a",
+            "explanation": "Nadir Shah was the Shah of Persia and the founder of the Afsharid dynasty.",
+            "sort_order": 2
+        },
+        {
+            "question_text": "Head of State under 1956 Constitution was:",
+            "option_a": "Governor-General",
+            "option_b": "President",
+            "option_c": "Prime Minister",
+            "option_d": "Chief Justice",
+            "correct_option": "b",
+            "explanation": "The constitution replaced the office of Governor-General with a President as the ceremonial head of state.",
+            "sort_order": 3
+        },
+        {
+            "question_text": "The classic Punjabi folk romance 'Mirza Sahiban' was famously written by:",
+            "option_a": "Waris Shah",
+            "option_b": "Bulleh Shah",
+            "option_c": "Peelu",
+            "option_d": "Damodar Das Arora",
+            "correct_option": "c",
+            "explanation": "While many have narrated the tale, the version by the 16th-century poet Peelu is considered one of the earliest and most authentic.",
+            "sort_order": 4
+        },
+        {
+            "question_text": "Allama Iqbal's first Urdu poetry book:",
+            "option_a": "Bal-e-Jibril",
+            "option_b": "Bang-e-Dra",
+            "option_c": "Zarb-e-Kaleem",
+            "option_d": "Asrar-e-Khudi",
+            "correct_option": "b",
+            "explanation": "\"Bang-e-Dra\" (The Call of the Marching Bell",
+            "sort_order": 5
+        },
+        {
+            "question_text": "Bibi Ka Maqbara, a mausoleum for Aurangzeb's wife, is in ____:",
+            "option_a": "Delhi",
+            "option_b": "Agra",
+            "option_c": "Lahore",
+            "option_d": "Aurangabad",
+            "correct_option": "d",
+            "explanation": "Located in Aurangabad, Bibi Ka Maqbara was commissioned by Aurangzeb in memory of his first wife, Dilras Banu Begum.",
+            "sort_order": 6
+        },
+        {
+            "question_text": "Ranjit Singh acquired the Koh-i-Noor diamond from:",
+            "option_a": "The British",
+            "option_b": "Nadir Shah",
+            "option_c": "The Marathas",
+            "option_d": "Shah Shuja Durrani",
+            "correct_option": "d",
+            "explanation": "Ranjit Singh obtained the diamond from the exiled Afghan king, Shah Shuja Durrani, in 1813.",
+            "sort_order": 7
+        },
+        {
+            "question_text": "The 1982 Hockey World Cup was held in:",
+            "option_a": "Karachi, Pakistan",
+            "option_b": "Amsterdam, Netherlands",
+            "option_c": "Mumbai, India",
+            "option_d": "Kuala Lumpur, Malaysia",
+            "correct_option": "c",
+            "explanation": "The 5th Hockey World Cup was held in Mumbai (then Bombay",
+            "sort_order": 8
+        },
+        {
+            "question_text": "Who became the Premier of Bengal after the 1946 election?",
+            "option_a": "A. K. Fazlul Haq",
+            "option_b": "Khawaja Nazimuddin",
+            "option_c": "Huseyn Shaheed Suhrawardy",
+            "option_d": "Nurul Amin",
+            "correct_option": "c",
+            "explanation": "Huseyn Shaheed Suhrawardy led the Muslim League to victory in Bengal and formed the government, becoming its Premier.",
+            "sort_order": 9
+        },
+        {
+            "question_text": "The Biafo Glacier is located in ____ District:",
+            "option_a": "Shigar",
+            "option_b": "Astore",
+            "option_c": "Diamer",
+            "option_d": "Nagar",
+            "correct_option": "a",
+            "explanation": "The Biafo Glacier is situated in the Shigar District of Gilgit-Baltistan.",
+            "sort_order": 10
+        },
+        {
+            "question_text": "Sher Shah introduced the silver coin ____:",
+            "option_a": "Tanka",
+            "option_b": "Dam",
+            "option_c": "Rupiya",
+            "option_d": "Mohur",
+            "correct_option": "c",
+            "explanation": "Sher Shah Suri standardized the currency, introducing a silver coin called the Rupiya and a copper coin called the Dam.",
+            "sort_order": 11
+        },
+        {
+            "question_text": "The Sultanate of Golconda was conquered by Aurangzeb in:",
+            "option_a": "1685",
+            "option_b": "1686",
+            "option_c": "1687",
+            "option_d": "1690",
+            "correct_option": "c",
+            "explanation": "After an eight-month siege, Aurangzeb's forces captured the diamond-rich Sultanate of Golconda in 1687.",
+            "sort_order": 12
+        },
+        {
+            "question_text": "The land tenure system aggravating Moplahs was the ____ system:",
+            "option_a": "Zamindari",
+            "option_b": "Ryotwari",
+            "option_c": "Mahalwari",
+            "option_d": "Jenmi",
+            "correct_option": "d",
+            "explanation": "The Jenmi system in Malabar gave Hindu landlords absolute ownership, which led to the exploitation of Moplah tenants.",
+            "sort_order": 13
+        },
+        {
+            "question_text": "Captain of the 1982 Hockey World Cup winning team:",
+            "option_a": "Hassan Sardar",
+            "option_b": "Akhtar Rasool",
+            "option_c": "Islahuddin Siddique",
+            "option_d": "Samiullah Khan",
+            "correct_option": "b",
+            "explanation": "Akhtar Rasool captained the Pakistan team that won the 1982 Hockey World Cup in Mumbai.",
+            "sort_order": 14
+        },
+        {
+            "question_text": "British PM during the Round Table Conferences:",
+            "option_a": "Winston Churchill",
+            "option_b": "Clement Attlee",
+            "option_c": "Ramsay MacDonald",
+            "option_d": "Neville Chamberlain",
+            "correct_option": "c",
+            "explanation": "Ramsay MacDonald presided over the three Round Table Conferences as the British Prime Minister.",
+            "sort_order": 15
+        },
+        {
+            "question_text": "The classic folk romance 'Heer Ranjha' was written by:",
+            "option_a": "Hashim Shah",
+            "option_b": "Waris Shah",
+            "option_c": "Shah Hussain",
+            "option_d": "Mian Muhammad Bakhsh",
+            "correct_option": "b",
+            "explanation": "Waris Shah's composition from 1766 is the most famous and definitive version of the Heer Ranjha story.",
+            "sort_order": 16
+        },
+        {
+            "question_text": "Ghalib's Persian mathnavi 'Chiragh-e-Dair' is about:",
+            "option_a": "Delhi",
+            "option_b": "Agra",
+            "option_c": "Benares (Varanasi)",
+            "option_d": "Lucknow",
+            "correct_option": "c",
+            "explanation": "'Chiragh-e-Dair' (Lamp of the Temple",
+            "sort_order": 17
+        },
+        {
+            "question_text": "The successful Second Five-Year Plan covered the period:",
+            "option_a": "1955-1960",
+            "option_b": "1960-1965",
+            "option_c": "1965-1970",
+            "option_d": "1958-1963",
+            "correct_option": "b",
+            "explanation": "The Second Five-Year Plan (1960-65",
+            "sort_order": 18
+        },
+        {
+            "question_text": "Most US casualties at Pearl Harbor occurred on which battleship:",
+            "option_a": "USS Oklahoma",
+            "option_b": "USS Nevada",
+            "option_c": "USS Arizona",
+            "option_d": "USS West Virginia",
+            "correct_option": "c",
+            "explanation": "The USS Arizona exploded and sank during the attack, killing 1,177 officers and crewmen, which accounted for nearly half of the total casualties.",
+            "sort_order": 19
+        },
+        {
+            "question_text": "The Torres Strait lies between Australia and which large island?",
+            "option_a": "Borneo",
+            "option_b": "New Guinea",
+            "option_c": "Sumatra",
+            "option_d": "Java",
+            "correct_option": "b",
+            "explanation": "The Torres Strait is located between Australia's Cape York Peninsula and the island of New Guinea.",
+            "sort_order": 20
+        },
+        {
+            "question_text": "Which of these is the capital city of Uganda?",
+            "option_a": "Nairobi",
+            "option_b": "Kampala",
+            "option_c": "Kigali",
+            "option_d": "Addis Ababa",
+            "correct_option": "b",
+            "explanation": "Kampala is the capital city of Uganda.",
+            "sort_order": 21
+        },
+        {
+            "question_text": "The \"Lion City\" is the common name and meaning for:",
+            "option_a": "Colombo",
+            "option_b": "Macau",
+            "option_c": "Hong Kong",
+            "option_d": "Singapore",
+            "correct_option": "d",
+            "explanation": "The name \"Singapore\" is derived from the Malay words 'Singa' (Lion) and 'Pura' (City).",
+            "sort_order": 22
+        },
+        {
+            "question_text": "The Shanghai Cooperation Organisation (SCO) is primarily focused on what type of cooperation?",
+            "option_a": "Military and security",
+            "option_b": "Economic and political",
+            "option_c": "Cultural and educational",
+            "option_d": "All of the above",
+            "correct_option": "d",
+            "explanation": "The SCO focuses on military, security, economic, political, cultural and educational cooperation.",
+            "sort_order": 23
+        },
+        {
+            "question_text": "Which institution acts as the 'lender of last resort'?",
+            "option_a": "World Bank",
+            "option_b": "International Monetary Fund",
+            "option_c": "Asian Development Bank",
+            "option_d": "Bank for International Settlements",
+            "correct_option": "b",
+            "explanation": "The IMF provides financial assistance to countries facing severe balance-of-payments problems, acting as a global lender of last resort.",
+            "sort_order": 24
+        },
+        {
+            "question_text": "What ideology was Mao Zedong a major proponent of?",
+            "option_a": "Capitalism",
+            "option_b": "Communism",
+            "option_c": "Monarchism",
+            "option_d": "Fascism",
+            "correct_option": "b",
+            "explanation": "Mao Zedong was a key figure in the development and implementation of Communist ideology in China.",
+            "sort_order": 25
+        },
+        {
+            "question_text": "Which of these structures held the record for the world's tallest building prior to the construction of the Petronas Towers?",
+            "option_a": "Empire State Building",
+            "option_b": "Sears Tower (Willis Tower)",
+            "option_c": "Taipei 101",
+            "option_d": "Chrysler Building",
+            "correct_option": "b",
+            "explanation": "The Sears Tower (now Willis Tower) in Chicago held the record before the Petronas Towers were built.",
+            "sort_order": 26
+        },
+        {
+            "question_text": "The Munich Agreement (1938) allowed German annexation of which territory:",
+            "option_a": "Alsace-Lorraine",
+            "option_b": "The Rhineland",
+            "option_c": "The Sudetenland",
+            "option_d": "The Danzig Corridor",
+            "correct_option": "c",
+            "explanation": "In an act of appeasement, the Munich Agreement permitted Nazi Germany's annexation of the Sudetenland, a border region of Czechoslovakia.",
+            "sort_order": 27
+        },
+        {
+            "question_text": "The World Food Programme (WFP) won the Nobel Peace Prize in:",
+            "option_a": "2015",
+            "option_b": "2018",
+            "option_c": "2020",
+            "option_d": "2022",
+            "correct_option": "c",
+            "explanation": "The WFP was awarded the Nobel Peace Prize in 2020 for its efforts to combat hunger and for its contribution to bettering conditions for peace in conflict-affected areas.",
+            "sort_order": 28
+        },
+        {
+            "question_text": "The world's largest natural supply of Sodium Nitrate is from the:",
+            "option_a": "Atacama Desert",
+            "option_b": "Kalahari Desert",
+            "option_c": "Mojave Desert",
+            "option_d": "Great Salt Lake Desert",
+            "correct_option": "a",
+            "explanation": "The Atacama Desert in Chile holds the world's largest natural deposits of sodium nitrate, which was extensively mined in the 19th and 20th centuries.",
+            "sort_order": 29
+        },
+        {
+            "question_text": "The maple leaf on Canada's national flag officially has how many points?",
+            "option_a": "9",
+            "option_b": "11",
+            "option_c": "13",
+            "option_d": "15",
+            "correct_option": "b",
+            "explanation": "The stylized 11-pointed maple leaf on the Canadian flag was designed by George Stanley in 1964.",
+            "sort_order": 30
+        },
+        {
+            "question_text": "The famous crossing point at the Berlin Wall was named:",
+            "option_a": "Checkpoint Alpha",
+            "option_b": "Checkpoint Bravo",
+            "option_c": "Checkpoint Charlie",
+            "option_d": "Checkpoint Delta",
+            "correct_option": "c",
+            "explanation": "Checkpoint Charlie was the best-known Berlin Wall crossing point between East Berlin and West Berlin during the Cold War.",
+            "sort_order": 31
+        },
+        {
+            "question_text": "The 'War Guilt Clause' is Article 231 of the:",
+            "option_a": "Treaty of Lausanne",
+            "option_b": "Treaty of Versailles",
+            "option_c": "Treaty of Trianon",
+            "option_d": "Treaty of Sèvres",
+            "correct_option": "b",
+            "explanation": "Article 231 of the Treaty of Versailles, known as the 'War Guilt Clause', forced Germany to accept full responsibility for causing World War I.",
+            "sort_order": 32
+        },
+        {
+            "question_text": "SCO's anti-terrorism body 'RATS' is located in:",
+            "option_a": "Beijing, China",
+            "option_b": "Astana, Kazakhstan",
+            "option_c": "Tashkent, Uzbekistan",
+            "option_d": "Moscow, Russia",
+            "correct_option": "c",
+            "explanation": "The Regional Anti-Terrorist Structure (RATS) is a permanent organ of the Shanghai Cooperation Organisation, headquartered in Tashkent.",
+            "sort_order": 33
+        },
+        {
+            "question_text": "The first spacecraft to successfully land on another planet (Venus) was:",
+            "option_a": "Mariner 2",
+            "option_b": "Viking 1",
+            "option_c": "Pioneer 10",
+            "option_d": "Venera 7",
+            "correct_option": "d",
+            "explanation": "The Soviet Union's Venera 7 was the first spacecraft to soft-land on another planet, Venus, in 1970.",
+            "sort_order": 34
+        },
+        {
+            "question_text": "The Treaty of Brest-Litovsk ended which country's WWI involvement?",
+            "option_a": "Ottoman Empire",
+            "option_b": "Austria-Hungary",
+            "option_c": "Soviet Russia",
+            "option_d": "Germany",
+            "correct_option": "c",
+            "explanation": "Signed in March 1918, this treaty marked Soviet Russia's exit from World War I after the Bolshevik Revolution.",
+            "sort_order": 35
+        },
+        {
+            "question_text": "What is the approximate length of the Durand Line?",
+            "option_a": "1,400 km",
+            "option_b": "2,670 km",
+            "option_c": "3,800 km",
+            "option_d": "4,200 km",
+            "correct_option": "b",
+            "explanation": "The Durand Line stretches approximately 2,670 kilometers (1,660 miles).",
+            "sort_order": 36
+        },
+        {
+            "question_text": "What is the primary force that drives the movement of sugars in the phloem from source to sink?",
+            "option_a": "Osmotic pressure gradient",
+            "option_b": "Capillary action",
+            "option_c": "Transpiration pull",
+            "option_d": "Gravitational force",
+            "correct_option": "a",
+            "explanation": "The pressure flow hypothesis states that sugars move from high concentration (source) to low concentration (sink) due to an osmotic pressure gradient.",
+            "sort_order": 37
+        },
+        {
+            "question_text": "Which disease was significantly reduced in prevalence due to the work of Jonas Salk?",
+            "option_a": "Smallpox",
+            "option_b": "Tetanus",
+            "option_c": "Polio",
+            "option_d": "Measles",
+            "correct_option": "c",
+            "explanation": "The polio vaccine developed by Jonas Salk played a crucial role in reducing the global incidence of polio.",
+            "sort_order": 38
+        },
+        {
+            "question_text": "The SI unit for mechanical stress is:",
+            "option_a": "Newton",
+            "option_b": "Joule",
+            "option_c": "Pascal",
+            "option_d": "Watt",
+            "correct_option": "c",
+            "explanation": "Stress is defined as force per unit area (N\/m²), which is equivalent to the Pascal (Pa), the same as pressure.",
+            "sort_order": 39
+        },
+        {
+            "question_text": "The orbital period of a satellite in geostationary orbit is:",
+            "option_a": "12 hours",
+            "option_b": "90 minutes",
+            "option_c": "23 hours, 56 minutes",
+            "option_d": "24 hours, 37 minutes",
+            "correct_option": "c",
+            "explanation": "The orbital period matches Earth's sidereal day, making the satellite appear stationary from the ground.",
+            "sort_order": 40
+        },
+        {
+            "question_text": "What is the primary function of the ozone layer in the stratosphere?",
+            "option_a": "Absorbing radio waves",
+            "option_b": "Reflecting sunlight",
+            "option_c": "Absorbing ultraviolet radiation",
+            "option_d": "Generating weather patterns",
+            "correct_option": "c",
+            "explanation": "The ozone layer absorbs the majority of harmful ultraviolet radiation from the sun.",
+            "sort_order": 41
+        },
+        {
+            "question_text": "Which type of galaxy is characterized by a central bulge and spiral arms?",
+            "option_a": "Elliptical",
+            "option_b": "Irregular",
+            "option_c": "Spiral",
+            "option_d": "Lenticular",
+            "correct_option": "c",
+            "explanation": "Spiral galaxies, like our Milky Way, have a distinct spiral structure with arms extending from a central bulge.",
+            "sort_order": 42
+        },
+        {
+            "question_text": "Chagas disease is transmitted to humans by which vector?",
+            "option_a": "Sandfly",
+            "option_b": "Tsetse fly",
+            "option_c": "Triatomine bug",
+            "option_d": "Anopheles mosquito",
+            "correct_option": "c",
+            "explanation": "Triatomine bugs, also known as 'kissing bugs', transmit the parasite Trypanosoma cruzi, which causes Chagas disease.",
+            "sort_order": 43
+        },
+        {
+            "question_text": "All penguin species are naturally found exclusively in the:",
+            "option_a": "Antarctic Circle",
+            "option_b": "Southern Hemisphere",
+            "option_c": "Polar Regions",
+            "option_d": "Pacific Ocean",
+            "correct_option": "b",
+            "explanation": "Contrary to popular belief, not all penguins live in Antarctica. All species, however, are native to the Southern Hemisphere, from Antarctica to the Galápagos Islands.",
+            "sort_order": 44
+        },
+        {
+            "question_text": "Which physician first correctly described pulmonary circulation, challenging Ibn Sina's theory?",
+            "option_a": "Al-Razi",
+            "option_b": "Ibn al-Haytham",
+            "option_c": "Galen",
+            "option_d": "Ibn al-Nafis",
+            "correct_option": "d",
+            "explanation": "Ibn al-Nafis was the first to accurately describe the pulmonary circulation of blood, correcting an error from Galenic and Avicennan medicine.",
+            "sort_order": 45
+        },
+        {
+            "question_text": "How does the heart structure generally differ between amphibians and mammals\/birds, in terms of efficiency in separating oxygenated and deoxygenated blood?",
+            "option_a": "Amphibians have a four-chamber heart, while mammals have a three-chamber heart.",
+            "option_b": "Amphibians have a three-chamber heart, while mammals and birds have a four-chamber heart.",
+            "option_c": "Both have a three-chamber heart.",
+            "option_d": "Both have a four-chamber heart.",
+            "correct_option": "b",
+            "explanation": "Amphibians generally have a three-chamber heart (with some exceptions), leading to some mixing of oxygenated and deoxygenated blood. Mammals and birds have a more efficient four-chamber heart which prevents this mixing.",
+            "sort_order": 46
+        },
+        {
+            "question_text": "The movement of tectonic plates is primarily caused by:",
+            "option_a": "Solar flares",
+            "option_b": "Lunar tides",
+            "option_c": "Convection currents in the mantle",
+            "option_d": "Atmospheric pressure",
+            "correct_option": "c",
+            "explanation": "Convection currents within the Earth's mantle drive the movement of the overlying tectonic plates.",
+            "sort_order": 47
+        },
+        {
+            "question_text": "The hormone that raises blood glucose levels is:",
+            "option_a": "Insulin",
+            "option_b": "Glucagon",
+            "option_c": "Somatostatin",
+            "option_d": "Aldosterone",
+            "correct_option": "b",
+            "explanation": "Glucagon, produced by alpha cells in the pancreas, works antagonistically to insulin by raising blood glucose levels.",
+            "sort_order": 48
+        },
+        {
+            "question_text": "What is the primary diet of the Blue Whale?",
+            "option_a": "Fish",
+            "option_b": "Squid",
+            "option_c": "Krill",
+            "option_d": "Seals",
+            "correct_option": "c",
+            "explanation": "Blue whales are baleen whales, filtering massive amounts of krill from the ocean.",
+            "sort_order": 49
+        },
+        {
+            "question_text": "The bacterium 'Yersinia pestis' is primarily transmitted by:",
+            "option_a": "Lice",
+            "option_b": "Ticks",
+            "option_c": "Mites",
+            "option_d": "Fleas",
+            "correct_option": "d",
+            "explanation": "The bubonic plague, caused by Yersinia pestis, is historically transmitted by the bite of infected fleas, often carried by rodents.",
+            "sort_order": 50
+        },
+        {
+            "question_text": "What part of the plant is primarily responsible for transpiration?",
+            "option_a": "Roots",
+            "option_b": "Stems",
+            "option_c": "Leaves",
+            "option_d": "Flowers",
+            "correct_option": "c",
+            "explanation": "Leaves contain stomata, which are pores that allow water to evaporate during transpiration.",
+            "sort_order": 51
+        },
+        {
+            "question_text": "What does BIOS stand for?",
+            "option_a": "Basic Input\/Output System",
+            "option_b": "Binary Input\/Output Sequence",
+            "option_c": "Basic Internal Operating Software",
+            "option_d": "Binary Instruction Output System",
+            "correct_option": "a",
+            "explanation": "BIOS is the fundamental software that initializes the hardware during the booting process.",
+            "sort_order": 52
+        },
+        {
+            "question_text": "Shortcut for 'Distributed' paragraph alignment:",
+            "option_a": "Ctrl+D",
+            "option_b": "Alt+J",
+            "option_c": "Ctrl+Shift+D",
+            "option_d": "Ctrl+Shift+J",
+            "correct_option": "d",
+            "explanation": "Ctrl+Shift+J creates a 'Distributed' alignment, which is similar to Justify but also stretches the last line to fit the margins.",
+            "sort_order": 53
+        },
+        {
+            "question_text": "Which protocol assigns numerical labels to devices participating in a computer network and uses a logical addressing scheme?",
+            "option_a": "FTP",
+            "option_b": "DNS",
+            "option_c": "IP",
+            "option_d": "SMTP",
+            "correct_option": "c",
+            "explanation": "IP (Internet Protocol) assigns numerical labels, known as IP addresses, to devices.",
+            "sort_order": 54
+        },
+        {
+            "question_text": "MICR technology is mainly used by:",
+            "option_a": "Libraries",
+            "option_b": "Retail stores",
+            "option_c": "Airlines",
+            "option_d": "Banks",
+            "correct_option": "d",
+            "explanation": "MICR (Magnetic Ink Character Recognition",
+            "sort_order": 55
+        },
+        {
+            "question_text": "`Ctrl + Shift + :` inserts the current ____:",
+            "option_a": "Date",
+            "option_b": "Formula",
+            "option_c": "Comment",
+            "option_d": "Time",
+            "correct_option": "d",
+            "explanation": "`Ctrl + Shift + :` is the standard Excel shortcut for inserting the current time.",
+            "sort_order": 56
+        },
+        {
+            "question_text": "The SMTP protocol uses port ____:",
+            "option_a": "110",
+            "option_b": "80",
+            "option_c": "21",
+            "option_d": "25",
+            "correct_option": "d",
+            "explanation": "The default port number for Simple Mail Transfer Protocol (SMTP",
+            "sort_order": 57
+        },
+        {
+            "question_text": "ROM programmed by the manufacturer is called ____:",
+            "option_a": "PROM",
+            "option_b": "EPROM",
+            "option_c": "MROM",
+            "option_d": "EEPROM",
+            "correct_option": "c",
+            "explanation": "MROM (Mask ROM",
+            "sort_order": 58
+        },
+        {
+            "question_text": "In MS Word, pressing 'Ctrl + I' applies which formatting style?",
+            "option_a": "Bold",
+            "option_b": "Underline",
+            "option_c": "Italic",
+            "option_d": "Strikethrough",
+            "correct_option": "c",
+            "explanation": "'Ctrl + I' applies italics to the selected text in MS Word.",
+            "sort_order": 59
+        },
+        {
+            "question_text": "Which effect happens on an object, not a slide?",
+            "option_a": "Animation",
+            "option_b": "Transition",
+            "option_c": "Fade",
+            "option_d": "Push",
+            "correct_option": "a",
+            "explanation": "Animations are specifically applied to elements (text, images, shapes",
+            "sort_order": 60
+        },
+        {
+            "question_text": "Which cyberattack aims to make a machine or network resource unavailable to its intended users by overwhelming it with traffic?",
+            "option_a": "Phishing",
+            "option_b": "DDoS",
+            "option_c": "Malware",
+            "option_d": "Encryption",
+            "correct_option": "b",
+            "explanation": "A DDoS (Distributed Denial of Service) attack floods a system with traffic from multiple sources, rendering it inaccessible.",
+            "sort_order": 61
+        },
+        {
+            "question_text": "In PowerPoint, if you insert a placeholder on the Master Slide, what is its purpose?",
+            "option_a": "To hold specific content that will only appear on the Master Slide.",
+            "option_b": "To define the position for specific content types on all slides based on that Master Slide.",
+            "option_c": "To create a hyperlink to another presentation.",
+            "option_d": "To add notes that only the presenter can see.",
+            "correct_option": "b",
+            "explanation": "Placeholders on the Master Slide define where titles, text, graphics, and other content should appear on all slides using that Master Slide layout.",
+            "sort_order": 62
+        },
+        {
+            "question_text": "Main threat of a DDoS attack is ____ disruption:",
+            "option_a": "Data",
+            "option_b": "Service",
+            "option_c": "Hardware",
+            "option_d": "Software",
+            "correct_option": "b",
+            "explanation": "A DDoS attack aims to make an online service unavailable by overwhelming it with traffic.",
+            "sort_order": 63
+        },
+        {
+            "question_text": "Who is the primary narrator of the famous Hadith-e-Jibreel?",
+            "option_a": "Abu Hurairah (RA)",
+            "option_b": "Abdullah ibn Abbas (RA)",
+            "option_c": "Umar ibn al-Khattab (RA)",
+            "option_d": "Anas ibn Malik (RA)",
+            "correct_option": "c",
+            "explanation": "The most widely known version of Hadith-e-Jibreel is narrated by Umar ibn al-Khattab (RA), as recorded in both Sahih al-Bukhari and Sahih Muslim.",
+            "sort_order": 64
+        },
+        {
+            "question_text": "The only Surah which does not begin with 'Bismillah' is:",
+            "option_a": "Surah Al-Anfal",
+            "option_b": "Surah At-Tawbah",
+            "option_c": "Surah Yunus",
+            "option_d": "Surah Hud",
+            "correct_option": "b",
+            "explanation": "Surah At-Tawbah (Chapter 9) is the only Surah in the Quran that does not start with the Bismillah ar-Rahman ar-Rahim.",
+            "sort_order": 65
+        },
+        {
+            "question_text": "The highly recommended fast for non-pilgrims on 9th Dhul-Hijjah is:",
+            "option_a": "Fast of Ashura",
+            "option_b": "Fast of Arafah",
+            "option_c": "Fasts of Shawwal",
+            "option_d": "Fast of David",
+            "correct_option": "b",
+            "explanation": "Fasting on the Day of Arafah (9th Dhul-Hijjah) is a highly recommended Sunnah for those not performing Hajj, believed to expiate sins of two years.",
+            "sort_order": 66
+        },
+        {
+            "question_text": "The title 'Fifth Rightly Guided Caliph' is often given to:",
+            "option_a": "Muawiyah I",
+            "option_b": "Yazid I",
+            "option_c": "Abd al-Malik",
+            "option_d": "Umar bin Abdul Aziz",
+            "correct_option": "d",
+            "explanation": "Due to his piety, justice, and significant reforms, Umar bin Abdul Aziz is honorifically called the fifth Rashidun Caliph.",
+            "sort_order": 67
+        },
+        {
+            "question_text": "The Battle of Talas (751 AD) halted Chinese expansion and introduced:",
+            "option_a": "Gunpowder to Arabs",
+            "option_b": "Papermaking to Arabs",
+            "option_c": "Compass to China",
+            "option_d": "Silk to Persia",
+            "correct_option": "b",
+            "explanation": "A key outcome of the Abbasid victory over the Tang Dynasty at Talas was the capture of Chinese prisoners who knew the art of papermaking, which then spread through the Islamic world.",
+            "sort_order": 68
+        },
+        {
+            "question_text": "The angel assigned to blow the Trumpet (Sur) is:",
+            "option_a": "Jibrail (AS)",
+            "option_b": "Mikail (AS)",
+            "option_c": "Israfil (AS)",
+            "option_d": "Izrail (AS)",
+            "correct_option": "c",
+            "explanation": "According to Islamic tradition, the Archangel Israfil (AS) is tasked with blowing the trumpet to signal the beginning of the Day of Judgment.",
+            "sort_order": 69
+        },
+        {
+            "question_text": "The Hajj ritual of Sa'i commemorates the frantic search for water by:",
+            "option_a": "Prophet Ismail (A.S)",
+            "option_b": "Hagar (Hajra)",
+            "option_c": "Prophet Ibrahim (A.S)",
+            "option_d": "Sarah",
+            "correct_option": "b",
+            "explanation": "Sa'i, the brisk walk between the hills of Safa and Marwa, reenacts Hagar's desperate search for water for her son, which led to the discovery of Zamzam.",
+            "sort_order": 70
+        },
+        {
+            "question_text": "Which Masjid was ordered to be demolished during the Tabuk expedition?",
+            "option_a": "Masjid al-Qiblatayn",
+            "option_b": "Masjid al-Dirar",
+            "option_c": "Masjid al-Ghamama",
+            "option_d": "Masjid al-Jinn",
+            "correct_option": "b",
+            "explanation": "Masjid al-Dirar ('the Mosque of Harm') was built by hypocrites near Quba to create dissent and was ordered to be destroyed by the Prophet (PBUH).",
+            "sort_order": 71
+        },
+        {
+            "question_text": "The 8th day of Dhul Hijjah, when pilgrims proceed to Mina, is called:",
+            "option_a": "Yawm al-Arafah",
+            "option_b": "Yawm al-Nahr",
+            "option_c": "Yawm al-Tarwiyah",
+            "option_d": "Ayyam al-Tashreeq",
+            "correct_option": "c",
+            "explanation": "Yawm al-Tarwiyah (Day of Quenching Thirst) marks the first official day of Hajj, when pilgrims travel from Makkah to Mina.",
+            "sort_order": 72
+        },
+        {
+            "question_text": "Which collection is considered most authentic after Sahih al-Bukhari:",
+            "option_a": "Sahih Muslim",
+            "option_b": "Sunan Abu Dawood",
+            "option_c": "Jami' at-Tirmidhi",
+            "option_d": "Musnad Ahmad",
+            "correct_option": "a",
+            "explanation": "Collectively known as the 'Sahihain' (The Two Sahihs), Sahih al-Bukhari and Sahih Muslim are considered the most authentic hadith collections.",
+            "sort_order": 73
+        },
+        {
+            "question_text": "The name Gibraltar is a derivation of the Arabic:",
+            "option_a": "Jabal al-Tariq",
+            "option_b": "Jabal Musa",
+            "option_c": "Qalat al-Hamra",
+            "option_d": "Wadi al-Kabir",
+            "correct_option": "a",
+            "explanation": "Gibraltar is the Spanish derivation of 'Jabal al-Tariq,' meaning 'Mountain of Tariq,' named after the general Tariq bin Ziyad.",
+            "sort_order": 74
+        },
+        {
+            "question_text": "For how many years did the social boycott of Banu Hashim last?",
+            "option_a": "Two years",
+            "option_b": "Three years",
+            "option_c": "Four years",
+            "option_d": "Five years",
+            "correct_option": "b",
+            "explanation": "The Quraysh enforced a complete social and economic boycott on the clans of Banu Hashim and Banu Muttalib for three years in Shib-i-Abi Talib.",
+            "sort_order": 75
+        },
+        {
+            "question_text": "The political structure of Vatican City is a form of:",
+            "option_a": "Monarchy",
+            "option_b": "Theocracy",
+            "option_c": "Oligarchy",
+            "option_d": "Democracy",
+            "correct_option": "b",
+            "explanation": "In a theocracy, governance is based on divine guidance or by officials regarded as divinely guided, like the Pope.",
+            "sort_order": 76
+        },
+        {
+            "question_text": "Such actions are prejudicial ___ the interests of the state.",
+            "option_a": "against",
+            "option_b": "to",
+            "option_c": "for",
+            "option_d": "from",
+            "correct_option": "b",
+            "explanation": "The adjective 'prejudicial', meaning harmful, is followed by the preposition 'to'.",
+            "sort_order": 77
+        },
+        {
+            "question_text": "Could you _____ my report before I submit it?",
+            "option_a": "look into",
+            "option_b": "look over",
+            "option_c": "look for",
+            "option_d": "look after",
+            "correct_option": "b",
+            "explanation": "'Look over' means to examine or review something, usually quickly.",
+            "sort_order": 78
+        },
+        {
+            "question_text": "He tried to `break in` on their conversation. This means he:",
+            "option_a": "Secretly recorded it",
+            "option_b": "Interrupted it",
+            "option_c": "Ended it",
+            "option_d": "Mediated it",
+            "correct_option": "b",
+            "explanation": "To 'break in' on a conversation means to interrupt it.",
+            "sort_order": 79
+        },
+        {
+            "question_text": "If the sun rises in the west, I ______ you.",
+            "option_a": "will forgive",
+            "option_b": "would forgive",
+            "option_c": "would have forgiven",
+            "option_d": "forgive",
+            "correct_option": "a",
+            "explanation": "This is a Type 1 conditional. Though the premise is impossible, the grammatical structure is for a real future possibility.",
+            "sort_order": 80
+        },
+        {
+            "question_text": "He was so furious, he seemed to _____ me as if I were invisible.",
+            "option_a": "look through",
+            "option_b": "look after",
+            "option_c": "look for",
+            "option_d": "look over",
+            "correct_option": "a",
+            "explanation": "To 'look through' a person means to ignore them by pretending not to see them.",
+            "sort_order": 81
+        },
+        {
+            "question_text": "Indirect speech of 'I said to him, \"Can you solve this puzzle?\"' is:",
+            "option_a": "I asked him if he can solve that puzzle.",
+            "option_b": "I asked him if he could solve this puzzle.",
+            "option_c": "I asked him that if he could solve that puzzle.",
+            "option_d": "I asked him if he could solve that puzzle.",
+            "correct_option": "d",
+            "explanation": "The modal 'can' changes to 'could', and the demonstrative adjective 'this' changes to 'that' in indirect speech.",
+            "sort_order": 82
+        },
+        {
+            "question_text": "If I were you, I ______ that job offer.",
+            "option_a": "would accept",
+            "option_b": "will accept",
+            "option_c": "would have accepted",
+            "option_d": "accepted",
+            "correct_option": "a",
+            "explanation": "This is a Type 2 conditional (unreal present) used for giving advice.",
+            "sort_order": 83
+        },
+        {
+            "question_text": "A strict disciplinarian, especially in the armed forces:",
+            "option_a": "Despot",
+            "option_b": "Martinet",
+            "option_c": "Pacifist",
+            "option_d": "Bureaucrat",
+            "correct_option": "b",
+            "explanation": "The term 'martinet' originates from Jean Martinet, a 17th-century French drill inspector known for his extreme strictness.",
+            "sort_order": 84
+        },
+        {
+            "question_text": "One who is guided by practical results over theoretical ideas:",
+            "option_a": "Idealist",
+            "option_b": "Utopian",
+            "option_c": "Pragmatist",
+            "option_d": "Theorist",
+            "correct_option": "c",
+            "explanation": "A pragmatist deals with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+            "sort_order": 85
+        },
+        {
+            "question_text": "Which body provides scientific assessments for climate negotiations:",
+            "option_a": "UNEP",
+            "option_b": "WMO",
+            "option_c": "UNFCCC Secretariat",
+            "option_d": "IPCC",
+            "correct_option": "d",
+            "explanation": "The Intergovernmental Panel on Climate Change (IPCC) is the UN body that provides policymakers with regular scientific assessments on climate change.",
+            "sort_order": 86
+        },
+        {
+            "question_text": "The Minister for Climate Change in the 2022 coalition government was:",
+            "option_a": "Khurshid Shah",
+            "option_b": "Naveed Qamar",
+            "option_c": "Hina Rabbani Khar",
+            "option_d": "Sherry Rehman",
+            "correct_option": "d",
+            "explanation": "Sherry Rehman of the PPP was appointed as the Federal Minister for Climate Change, a key portfolio.",
+            "sort_order": 87
+        },
+        {
+            "question_text": "Number of seats reserved for Women per province:",
+            "option_a": "2",
+            "option_b": "4",
+            "option_c": "5",
+            "option_d": "17",
+            "correct_option": "b",
+            "explanation": "There are 4 seats reserved for women from each province.",
+            "sort_order": 88
+        },
+        {
+            "question_text": "Belarus signed the memorandum on its obligations for SCO membership in:",
+            "option_a": "2021",
+            "option_b": "2022",
+            "option_c": "2023",
+            "option_d": "2024",
+            "correct_option": "c",
+            "explanation": "Belarus signed the memorandum of obligations to join the SCO as a full member during the virtual summit hosted by India in July 2023.",
+            "sort_order": 89
+        },
+        {
+            "question_text": "The major US private military company Blackwater was rebranded as:",
+            "option_a": "DynCorp",
+            "option_b": "Triple Canopy",
+            "option_c": "G4S",
+            "option_d": "Academi",
+            "correct_option": "d",
+            "explanation": "Following controversies in Iraq, Blackwater was renamed Xe Services in 2009 and then Academi in 2011.",
+            "sort_order": 90
+        },
+        {
+            "question_text": "The Senate Chairman acts as Acting President when:",
+            "option_a": "PM is away",
+            "option_b": "President is absent\/office vacant",
+            "option_c": "Assembly is dissolved",
+            "option_d": "During martial law",
+            "correct_option": "b",
+            "explanation": "According to the Constitution, the Senate Chairman is first in line to act as President.",
+            "sort_order": 91
+        },
+        {
+            "question_text": "The value of (4\/5)^-2 is:",
+            "option_a": "16\/25",
+            "option_b": "25\/16",
+            "option_c": "-8\/10",
+            "option_d": "-16\/25",
+            "correct_option": "b",
+            "explanation": "A negative exponent inverts the base. So, (4\/5)^-2 = (5\/4)^2 = 25\/16.",
+            "sort_order": 92
+        },
+        {
+            "question_text": "The value 500 square metres is what percent of one hectare?",
+            "option_a": "0.5%",
+            "option_b": "5%",
+            "option_c": "20%",
+            "option_d": "50%",
+            "correct_option": "b",
+            "explanation": "One hectare equals 10,000 square metres. Therefore, (500 \/ 10,000) * 100 = 5%.",
+            "sort_order": 93
+        },
+        {
+            "question_text": "The average of seven consecutive odd numbers is 23. The largest number is:",
+            "option_a": "25",
+            "option_b": "27",
+            "option_c": "29",
+            "option_d": "31",
+            "correct_option": "c",
+            "explanation": "For consecutive numbers, the average is the middle number. The 4th number is 23. The numbers are 17, 19, 21, 23, 25, 27, 29.",
+            "sort_order": 94
+        },
+        {
+            "question_text": "A train at 90 km\/hr crosses a 200m bridge in 20 seconds. Train length is:",
+            "option_a": "250 m",
+            "option_b": "300 m",
+            "option_c": "350 m",
+            "option_d": "400 m",
+            "correct_option": "b",
+            "explanation": "Speed = 90 * (5\/18) = 25 m\/s. Total Distance = Speed * Time = 25 * 20 = 500m. Train Length = 500m - 200m = 300m.",
+            "sort_order": 95
+        },
+        {
+            "question_text": "Complete factorization of the expression x^4 - 16 is:",
+            "option_a": "(x^2-4)(x^2+4)",
+            "option_b": "(x-4)(x+4)",
+            "option_c": "(x-2)(x+2)(x^2+4)",
+            "option_d": "(x-2)^2(x+2)^2",
+            "correct_option": "c",
+            "explanation": "x^4 - 16 = (x^2)^2 - 4^2 = (x^2-4)(x^2+4). Further factoring (x^2-4) gives (x-2)(x+2)(x^2+4).",
+            "sort_order": 96
+        },
+        {
+            "question_text": "Mira Ji was deeply influenced by and translated which American poet?",
+            "option_a": "Robert Frost",
+            "option_b": "Walt Whitman",
+            "option_c": "T.S. Eliot",
+            "option_d": "Ezra Pound",
+            "correct_option": "b",
+            "explanation": "Mira Ji translated parts of Walt Whitman's 'Leaves of Grass', finding a kinship in his free verse and expansive vision.",
+            "sort_order": 97
+        },
+        {
+            "question_text": "Lafz 'Sharab' ka jinsi istemaal hai:",
+            "option_a": "Muzakkar",
+            "option_b": "Muannas",
+            "option_c": "Dono durust",
+            "option_d": "Ghair Maroof",
+            "correct_option": "b",
+            "explanation": "'Sharab' ko Urdu zaban mein muannas ke taur par istemal kiya jaata hai.",
+            "sort_order": 98
+        },
+        {
+            "question_text": "The first major translation of the Holy Quran into Urdu was by:",
+            "option_a": "Sir Syed Ahmed Khan",
+            "option_b": "Deputy Nazir Ahmed",
+            "option_c": "Shah Abdul Qadir Dehlvi",
+            "option_d": "Maulana Abul Kalam Azad",
+            "correct_option": "c",
+            "explanation": "Shah Abdul Qadir Dehlvi, son of Shah Waliullah, completed the first complete and influential translation of the Quran into idiomatic Urdu.",
+            "sort_order": 99
+        },
+        {
+            "question_text": "Which institution did Ghalib serve as a professor of Persian?",
+            "option_a": "Fort William College",
+            "option_b": "Aligarh University",
+            "option_c": "Madrasa-i-Ghaziuddin",
+            "option_d": "Delhi College",
+            "correct_option": "d",
+            "explanation": "Ghalib was offered a professorship of Persian at Delhi College, but he famously turned it down over a point of etiquette when the British official did not come out to receive him.",
+            "sort_order": 100
+        }
+    ]
+}

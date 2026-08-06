@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mcqs.learnuppakistan.com	TRUE	/	FALSE	1999999999	PHPSESSID	87b8cf82adb00eeee10057342a561057
+mcqs.learnuppakistan.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

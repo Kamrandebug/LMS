@@ -1,0 +1,147 @@
+/* ---------------------------------------------------------------------------
+   LearnUp — Auth page custom CSS
+   Scope: ONLY the 3D flip card effect + the right-panel network background.
+   Everything else uses Tailwind utility classes (see layouts/auth.blade.php).
+--------------------------------------------------------------------------- */
+
+/* ---- 3D Flip Card ---- */
+.flip-wrapper {
+    /* Depth for the 3D rotation. This is the "camera" — never overflow-hidden. */
+    perspective: 1200px;
+}
+
+/*
+   The OUTER card container. Sizes itself to the tallest face (auto height), so
+   the card hugs its content and the page scrolls if the window is very short —
+   nothing is ever clipped. overflow-hidden stays here (and on the faces), NOT
+   on the inner rotating container — clipping the preserve-3d parent breaks the
+   rotation.
+*/
+.flip-card {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr; /* both faces overlap in the same cell */
+    height: auto;
+    overflow: hidden; /* clip faces to the card's rounded corners */
+    border-radius: inherit; /* match the rounded-3xl on the markup */
+}
+
+/*
+   The INNER rotating container. This is the 3D stage:
+   - It IS a grid (same single-column layout as the outer) so the two faces
+     overlap in the same cell instead of stacking vertically. THIS is what was
+     broken before — without display:grid here, the faces sat one below the
+     other, doubling the card height and mirroring the register face.
+   - transform-style: preserve-3d lets its children (the faces) live in 3D.
+   - NO overflow on this element — overflow other than visible forces
+     transform-style to "flat" and destroys the 3D rotation.
+*/
+.flip-card-inner {
+    grid-area: 1 / 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 0;
+    overflow: visible; /* never clip the rotating stage — it breaks preserve-3d */
+    transform-style: preserve-3d;
+    transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.flip-card.is-flipped .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/*
+   Each face occupies the same cell of the inner grid, so the card sizes
+   itself to the tallest face. Each face rotates around ITS OWN axis (0deg /
+   180deg), so the text is never mirrored — the panels are identical in normal
+   orientation and just swap into view.
+*/
+.flip-face {
+    grid-area: 1 / 1;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit; /* clip to the card's rounded corners */
+    overflow: hidden; /* clip panel content to the card shape */
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-face-front {
+    transform: rotateY(0deg);
+}
+
+.flip-face-back {
+    transform: rotateY(180deg);
+}
+
+/*
+   Hit-testing: the two faces occupy the same grid cell, so the face facing
+   away is still clickable on some browsers even though backface-visibility
+   hides it visually. That invisible face sits over the visible one and
+   swallows clicks/taps — make it inert so the active form receives them.
+*/
+.flip-card .flip-face-back {
+    pointer-events: none; /* back face inactive in the default (login) state */
+}
+
+.flip-card.is-flipped .flip-face-back {
+    pointer-events: auto; /* back face becomes the active one when flipped */
+}
+
+.flip-card.is-flipped .flip-face-front {
+    pointer-events: none; /* and the front face goes inert */
+}
+
+/*
+   The form panel is a scroll container. With the card fixed at viewport height
+   and the faces filling it, the left panel scrolls internally (its own
+   scrollbar, iOS momentum scroll) while the hero panel stays pinned — exactly
+   matching the 75%-zoom look at 100% zoom. The inner div centers vertically
+   with safe padding when the content is shorter than the viewport.
+*/
+.panel-left {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.panel-left > div {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* ---- Right Panel Network / Texture Background ---- */
+.hero-panel::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+        radial-gradient(circle at 15% 50%, rgba(255, 255, 255, 0.12) 0%, transparent 30%),
+        radial-gradient(circle at 85% 30%, rgba(255, 255, 255, 0.06) 0%, transparent 40%),
+        radial-gradient(circle, rgba(255, 255, 255, 0.09) 1.5px, transparent 1.5px);
+    background-size: 100% 100%, 100% 100%, 40px 40px;
+    animation: pulse-network 6s ease-in-out infinite alternate;
+    pointer-events: none;
+    z-index: 0;
+}
+
+@keyframes pulse-network {
+    0% {
+        opacity: 0.55;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1.2);
+    }
+}
+
+/* Keep the hero content above the animated layer */
+.hero-panel > * {
+    position: relative;
+    z-index: 1;
+}

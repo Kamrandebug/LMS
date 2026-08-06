@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+    body {
+        @apply bg-slate-50 dark:bg-slate-950 text-gray-800 dark:text-gray-100 font-sans min-h-screen flex flex-col selection:bg-brand-primary selection:text-white transition-colors duration-300;
+    }
+    main {
+        @apply flex-grow;
+    }
+}
+
+@layer components {
+    .glass-card {
+        @apply bg-white/80 dark:bg-slate-900/90 backdrop-blur-lg border border-white/20 dark:border-white/10 shadow-xl;
+    }
+    .gradient-text {
+        @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600;
+    }
+    .btn-primary {
+        @apply bg-brand-primary text-white font-semibold px-5 py-2.5 rounded-xl hover:bg-green-600 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-brand-primary focus:ring-offset-2 dark:focus:ring-offset-slate-900;
+    }
+    .btn-secondary {
+        @apply border-2 border-brand-primary text-brand-primary font-semibold px-5 py-2.5 rounded-xl hover:bg-brand-primary hover:text-white transition-all duration-200;
+    }
+    .option-btn {
+        @apply w-full text-left px-4 py-3 md:py-4 rounded-xl border-2 border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-800 text-gray-700 dark:text-gray-200 font-medium transition-all duration-200 hover:border-brand-primary hover:bg-brand-primary/5 dark:hover:bg-brand-primary/10 focus:outline-none focus:ring-2 focus:ring-brand-primary text-base md:text-lg;
+    }
+    .option-btn-correct {
+        @apply border-green-500 bg-green-50 dark:bg-green-900/20 text-green-700 dark:text-green-300;
+    }
+    .option-btn-wrong {
+        @apply border-red-500 bg-red-50 dark:bg-red-900/20 text-red-700 dark:text-red-300;
+    }
+    .option-btn-disabled {
+        @apply opacity-70 cursor-not-allowed;
+    }
+    .sub-card {
+        @apply block relative h-64 rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-2;
+    }
+    .set-card {
+        @apply relative flex flex-col items-center justify-center p-4 rounded-xl border border-gray-100 dark:border-gray-800 bg-gray-50 dark:bg-slate-900 hover:bg-white dark:hover:bg-slate-800 hover:shadow-lg hover:border-brand-primary/30 dark:hover:border-brand-primary/50 transition-all duration-300 hover:-translate-y-1;
+    }
+    .heading-gradient {
+        @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300;
+    }
+    .badge {
+        @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+    }
+}

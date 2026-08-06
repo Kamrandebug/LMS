@@ -1,0 +1,1011 @@
+{
+    "slug": "mock-test-3",
+    "total_questions": 100,
+    "name": "Mock Test 3",
+    "exam_type": "ppsc",
+    "duration_minutes": 100,
+    "negative_marking_value": 0.25,
+    "has_negative_marking": true,
+    "questions": [
+        {
+            "question_text": "Raja Dahir's son who continued resistance:",
+            "option_a": "Jaisiah",
+            "option_b": "Anbasa",
+            "option_c": "Hullishah",
+            "option_d": "Vikaramaditya",
+            "correct_option": "a",
+            "explanation": "Jaisiah (or Jai Singh",
+            "sort_order": 1
+        },
+        {
+            "question_text": "The epicentre of the Direct Action Day riots was:",
+            "option_a": "Lahore",
+            "option_b": "Dacca",
+            "option_c": "Delhi",
+            "option_d": "Calcutta",
+            "correct_option": "d",
+            "explanation": "The most severe violence occurred in Calcutta, leading to the 'Great Calcutta Killings'.",
+            "sort_order": 2
+        },
+        {
+            "question_text": "Badshahi Mosque's construction was supervised by ____, Aurangzeb's foster brother:",
+            "option_a": "Shaista Khan",
+            "option_b": "Fidai Khan Koka",
+            "option_c": "Asaf Khan",
+            "option_d": "Mir Jumla",
+            "correct_option": "b",
+            "explanation": "Fidai Khan Koka, the then governor of Lahore and Aurangzeb's foster brother, supervised the mosque's construction.",
+            "sort_order": 3
+        },
+        {
+            "question_text": "Cabinet Mission plan proposed a ____ India:",
+            "option_a": "Divided",
+            "option_b": "Three-tier federal",
+            "option_c": "Unitary",
+            "option_d": "Bicameral",
+            "correct_option": "b",
+            "explanation": "The plan recommended a three-tier federal structure with a minimal central government, provincial groups, and individual provinces.",
+            "sort_order": 4
+        },
+        {
+            "question_text": "The 1971 surrender ceremony was held at:",
+            "option_a": "Dhaka University",
+            "option_b": "Governor's House",
+            "option_c": "Dhaka Cantonment",
+            "option_d": "Ramna Race Course",
+            "correct_option": "d",
+            "explanation": "The public ceremony of surrender was held at the Ramna Race Course ground in Dhaka, now known as Suhrawardy Udyan.",
+            "sort_order": 5
+        },
+        {
+            "question_text": "The main purpose of Din-i-Ilahi was:",
+            "option_a": "Military conquest",
+            "option_b": "Religious conversion",
+            "option_c": "Universal harmony",
+            "option_d": "Economic reform",
+            "correct_option": "c",
+            "explanation": "Din-i-Ilahi aimed to merge the best elements of different religions to create a code promoting peace and universal harmony (Sulh-i-Kul",
+            "sort_order": 6
+        },
+        {
+            "question_text": "Quli Qutb Shah, the first Urdu 'Sahib-e-Diwan' poet, was a ruler of:",
+            "option_a": "Bijapur Sultanate",
+            "option_b": "Kingdom of Golconda",
+            "option_c": "Ahmednagar Sultanate",
+            "option_d": "Mughal Empire",
+            "correct_option": "b",
+            "explanation": "Sultan Muhammad Quli Qutb Shah was the fifth ruler of the Qutb Shahi dynasty of Golconda in south-central India.",
+            "sort_order": 7
+        },
+        {
+            "question_text": "Construction of Lahore's Badshahi Mosque began in ____:",
+            "option_a": "1658",
+            "option_b": "1665",
+            "option_c": "1671",
+            "option_d": "1682",
+            "correct_option": "c",
+            "explanation": "The construction of the grand Badshahi Mosque started in 1671 and was completed in 1673.",
+            "sort_order": 8
+        },
+        {
+            "question_text": "Provincial autonomy effectively ended with the start of:",
+            "option_a": "Quit India Movement",
+            "option_b": "World War II",
+            "option_c": "Civil Disobedience",
+            "option_d": "Partition",
+            "correct_option": "b",
+            "explanation": "In 1939, Congress ministries resigned in protest of India's entry into WWII, ending the autonomy experiment.",
+            "sort_order": 9
+        },
+        {
+            "question_text": "The Cabinet Mission plan proposed a ____-tier federal structure:",
+            "option_a": "One",
+            "option_b": "Two",
+            "option_c": "Three",
+            "option_d": "Four",
+            "correct_option": "c",
+            "explanation": "It proposed a structure of provinces, provincial groupings (A, B, C",
+            "sort_order": 10
+        },
+        {
+            "question_text": "The Council of India assisting the Secretary had ____ members:",
+            "option_a": "10",
+            "option_b": "12",
+            "option_c": "15",
+            "option_d": "20",
+            "correct_option": "c",
+            "explanation": "The Secretary of State was assisted by a 15-member council, the Council of India.",
+            "sort_order": 11
+        },
+        {
+            "question_text": "The 1\/3rd rule also applied to Central and ____ cabinets.",
+            "option_a": "Provincial",
+            "option_b": "District",
+            "option_c": "Princely",
+            "option_d": "Municipal",
+            "correct_option": "a",
+            "explanation": "Point #13 stated that no cabinet, either central or provincial, should be formed without there being a proportion of at least one-third Muslim ministers.",
+            "sort_order": 12
+        },
+        {
+            "question_text": "Muslim representation in United Provinces under Pact:",
+            "option_a": "20%",
+            "option_b": "25%",
+            "option_c": "30%",
+            "option_d": "35%",
+            "correct_option": "c",
+            "explanation": "In the United Provinces, where Muslims were a minority, they were allocated 30% of the seats.",
+            "sort_order": 13
+        },
+        {
+            "question_text": "Benazir Bhutto's second term as PM ended in:",
+            "option_a": "1995",
+            "option_b": "1996",
+            "option_c": "1997",
+            "option_d": "1998",
+            "correct_option": "b",
+            "explanation": "Her second term was dismissed in November 1996 by President Farooq Leghari, a member of her own party.",
+            "sort_order": 14
+        },
+        {
+            "question_text": "The 1956 Constitution was enforced on:",
+            "option_a": "14 August 1947",
+            "option_b": "23 March 1956",
+            "option_c": "7 October 1958",
+            "option_d": "8 June 1962",
+            "correct_option": "b",
+            "explanation": "The Constitution of 1956 was promulgated on March 23, 1956, officially making Pakistan a republic.",
+            "sort_order": 15
+        },
+        {
+            "question_text": "Karnal Sher Khan received Nishan-e-Haider for the ____ war:",
+            "option_a": "1965 War",
+            "option_b": "1971 War",
+            "option_c": "Kargil War",
+            "option_d": "1948 War",
+            "correct_option": "c",
+            "explanation": "Captain Karnal Sher Khan was martyred and posthumously awarded for his bravery during the 1999 Kargil War.",
+            "sort_order": 16
+        },
+        {
+            "question_text": "Syed Ahmed Shaheed was martyred at:",
+            "option_a": "Peshawar",
+            "option_b": "Akora Khattak",
+            "option_c": "Balakot",
+            "option_d": "Attock",
+            "correct_option": "c",
+            "explanation": "Syed Ahmed Shaheed and his key companion, Shah Ismail, were martyred in Balakot, Khyber Pakhtunkhwa.",
+            "sort_order": 17
+        },
+        {
+            "question_text": "Which poet wrote primarily in the Pashto language:",
+            "option_a": "Shah Abdul Latif",
+            "option_b": "Waris Shah",
+            "option_c": "Khushal Khan Khattak",
+            "option_d": "Bulleh Shah",
+            "correct_option": "c",
+            "explanation": "Khushal Khan Khattak is a celebrated poet of the Pashto language.",
+            "sort_order": 18
+        },
+        {
+            "question_text": "Bahadur Shah Zafar was captured from:",
+            "option_a": "The Red Fort",
+            "option_b": "Humayun's Tomb",
+            "option_c": "Jama Masjid",
+            "option_d": "Qutub Minar",
+            "correct_option": "b",
+            "explanation": "Major William Hodson captured Bahadur Shah Zafar at Humayun's Tomb in Delhi in September 1857.",
+            "sort_order": 19
+        },
+        {
+            "question_text": "The original name of Sher Shah Suri was:",
+            "option_a": "Jalal Khan",
+            "option_b": "Farid Khan",
+            "option_c": "Salim Shah",
+            "option_d": "Hasan Khan",
+            "correct_option": "b",
+            "explanation": "Sher Shah Suri was born as Farid Khan. He earned the title 'Sher Khan' after reportedly killing a tiger.",
+            "sort_order": 20
+        },
+        {
+            "question_text": "The Thar Desert is the world's ____ largest hot desert:",
+            "option_a": "5th",
+            "option_b": "12th",
+            "option_c": "9th",
+            "option_d": "17th",
+            "correct_option": "d",
+            "explanation": "Globally, the Thar Desert is ranked as the 17th largest desert and the 9th largest hot subtropical desert.",
+            "sort_order": 21
+        },
+        {
+            "question_text": "Jinnah's Points: Sindh's separation was demanded from ____ Presidency.",
+            "option_a": "Bombay",
+            "option_b": "Bengal",
+            "option_c": "Madras",
+            "option_d": "Punjab",
+            "correct_option": "a",
+            "explanation": "Point number six of the 14 Points demanded the separation of Sindh from the Bombay Presidency.",
+            "sort_order": 22
+        },
+        {
+            "question_text": "Which of the following best describes the form of government established in Iran following the 1979 revolution?",
+            "option_a": "Secular Republic",
+            "option_b": "Constitutional Monarchy",
+            "option_c": "Islamic Republic",
+            "option_d": "Socialist State",
+            "correct_option": "c",
+            "explanation": "The Iranian Revolution of 1979 led to the establishment of an Islamic Republic.",
+            "sort_order": 23
+        },
+        {
+            "question_text": "The last leader of the Soviet Union was:",
+            "option_a": "Konstantin Chernenko",
+            "option_b": "Yuri Andropov",
+            "option_c": "Mikhail Gorbachev",
+            "option_d": "Boris Yeltsin",
+            "correct_option": "c",
+            "explanation": "Mikhail Gorbachev was the eighth and final leader of the Soviet Union, serving from 1985 until its dissolution in 1991.",
+            "sort_order": 24
+        },
+        {
+            "question_text": "The Universal Postal Union (UPU), one of the oldest international organizations, is headquartered in:",
+            "option_a": "Geneva",
+            "option_b": "Vienna",
+            "option_c": "Bern",
+            "option_d": "Paris",
+            "correct_option": "c",
+            "explanation": "Established in 1874, the UPU became a UN specialized agency in 1948 and is headquartered in Bern, Switzerland.",
+            "sort_order": 25
+        },
+        {
+            "question_text": "The legislative capital of the Republic of South Africa is:",
+            "option_a": "Pretoria",
+            "option_b": "Johannesburg",
+            "option_c": "Cape Town",
+            "option_d": "Bloemfontein",
+            "correct_option": "c",
+            "explanation": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial).",
+            "sort_order": 26
+        },
+        {
+            "question_text": "What currency is used in Azerbaijan?",
+            "option_a": "Ruble",
+            "option_b": "Manat",
+            "option_c": "Tenge",
+            "option_d": "Som",
+            "correct_option": "b",
+            "explanation": "The currency used in Azerbaijan is the Manat.",
+            "sort_order": 27
+        },
+        {
+            "question_text": "Which country is NOT part of the Horn of Africa peninsula?",
+            "option_a": "Somalia",
+            "option_b": "Ethiopia",
+            "option_c": "Eritrea",
+            "option_d": "Kenya",
+            "correct_option": "d",
+            "explanation": "The Horn of Africa contains Djibouti, Eritrea, Ethiopia, and Somalia. Kenya is a neighboring country to the south.",
+            "sort_order": 28
+        },
+        {
+            "question_text": "UN and Kofi Annan jointly won Nobel Peace Prize in:",
+            "option_a": "1999",
+            "option_b": "2001",
+            "option_c": "2005",
+            "option_d": "2007",
+            "correct_option": "b",
+            "explanation": "The Nobel Peace Prize for 2001 was awarded jointly to the United Nations and its Secretary-General, Kofi Annan, for their work for a better organized and more peaceful world.",
+            "sort_order": 29
+        },
+        {
+            "question_text": "The Sierra Nevada in California is a classic example of:",
+            "option_a": "Fold mountains",
+            "option_b": "Volcanic mountains",
+            "option_c": "Block-fault mountains",
+            "option_d": "Dome mountains",
+            "correct_option": "c",
+            "explanation": "The Sierra Nevada range was formed by the uplift of large blocks of crust along faults, making it a textbook example of a block-fault mountain system.",
+            "sort_order": 30
+        },
+        {
+            "question_text": "The main avenue in Dushanbe is named after which classical Persian poet?",
+            "option_a": "Hafez",
+            "option_b": "Rumi",
+            "option_c": "Ferdowsi",
+            "option_d": "Rudaki",
+            "correct_option": "d",
+            "explanation": "Rudaki Avenue is the main street of Tajikistan's capital, Dushanbe, named after the classical Persian poet Rudaki.",
+            "sort_order": 31
+        },
+        {
+            "question_text": "Which strait separates the Arabian Peninsula from Africa?",
+            "option_a": "Strait of Hormuz",
+            "option_b": "Bab-el-Mandeb Strait",
+            "option_c": "Strait of Gibraltar",
+            "option_d": "Palk Strait",
+            "correct_option": "b",
+            "explanation": "The Bab-el-Mandeb Strait connects the Red Sea to the Gulf of Aden, separating Arabia from the Horn of Africa.",
+            "sort_order": 32
+        },
+        {
+            "question_text": "Which continent has the most landlocked countries?",
+            "option_a": "Asia",
+            "option_b": "Europe",
+            "option_c": "Africa",
+            "option_d": "South America",
+            "correct_option": "c",
+            "explanation": "Africa has 16 landlocked countries, the highest number among all continents.",
+            "sort_order": 33
+        },
+        {
+            "question_text": "Which principal UN organ is not headquartered in New York City?",
+            "option_a": "General Assembly",
+            "option_b": "Security Council",
+            "option_c": "International Court of Justice",
+            "option_d": "Economic and Social Council",
+            "correct_option": "c",
+            "explanation": "The International Court of Justice (ICJ) is headquartered at the Peace Palace in The Hague, Netherlands. All others are in New York.",
+            "sort_order": 34
+        },
+        {
+            "question_text": "The founder of the Reuters news agency was:",
+            "option_a": "Paul Julius Reuter",
+            "option_b": "Charles-Louis Havas",
+            "option_c": "Guglielmo Marconi",
+            "option_d": "Émile Zola",
+            "correct_option": "a",
+            "explanation": "Paul Julius Reuter, a German-born entrepreneur, founded the agency in London in 1851.",
+            "sort_order": 35
+        },
+        {
+            "question_text": "Europe's largest ultra low-cost carrier, Ryanair, is from:",
+            "option_a": "Germany",
+            "option_b": "United Kingdom",
+            "option_c": "France",
+            "option_d": "Ireland",
+            "correct_option": "d",
+            "explanation": "Ryanair is an Irish ultra-low-cost carrier headquartered in Swords, Dublin, Ireland.",
+            "sort_order": 36
+        },
+        {
+            "question_text": "In chess, the special move 'Castling' involves the King and:",
+            "option_a": "A Rook",
+            "option_b": "A Bishop",
+            "option_c": "The Queen",
+            "option_d": "A Knight",
+            "correct_option": "a",
+            "explanation": "Castling is a defensive move where the King moves two squares towards a Rook, and the Rook moves to the square the King crossed.",
+            "sort_order": 37
+        },
+        {
+            "question_text": "Strait of Hormuz, a key oil chokepoint, connects:",
+            "option_a": "Persian Gulf and Gulf of Oman",
+            "option_b": "Red Sea and Gulf of Aden",
+            "option_c": "Black Sea and Sea of Marmara",
+            "option_d": "Atlantic Ocean and Mediterranean Sea",
+            "correct_option": "a",
+            "explanation": "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and the open Arabian Sea. A significant portion of the world's seaborne oil passes through it.",
+            "sort_order": 38
+        },
+        {
+            "question_text": "The Ozone layer, responsible for absorbing harmful UV radiation, is located in which atmospheric layer?",
+            "option_a": "Troposphere",
+            "option_b": "Stratosphere",
+            "option_c": "Mesosphere",
+            "option_d": "Thermosphere",
+            "correct_option": "b",
+            "explanation": "The Ozone layer is primarily located within the stratosphere.",
+            "sort_order": 39
+        },
+        {
+            "question_text": "Which of the following cell types is a primary component of phloem tissue?",
+            "option_a": "Tracheids",
+            "option_b": "Sieve tube elements",
+            "option_c": "Parenchyma",
+            "option_d": "Collenchyma",
+            "correct_option": "b",
+            "explanation": "Sieve tube elements are the main conducting cells in phloem, responsible for transporting sugars.",
+            "sort_order": 40
+        },
+        {
+            "question_text": "What is the primary reason for using radio waves in RADAR systems, as opposed to other types of electromagnetic radiation like X-rays or gamma rays?",
+            "option_a": "Radio waves are cheaper to produce",
+            "option_b": "Radio waves are unaffected by atmospheric conditions",
+            "option_c": "Radio waves can penetrate atmospheric conditions and reflect off large objects",
+            "option_d": "Radio waves travel faster than other EM waves",
+            "correct_option": "c",
+            "explanation": "Radio waves, especially microwaves, are suitable for radar because they can penetrate the atmosphere and reflect off objects, allowing for long-range detection.",
+            "sort_order": 41
+        },
+        {
+            "question_text": "Which pairs of ribs are correctly identified as floating ribs:",
+            "option_a": "Pairs 8-10",
+            "option_b": "Pairs 1-7",
+            "option_c": "Pairs 11-12",
+            "option_d": "Pairs 9-11",
+            "correct_option": "c",
+            "explanation": "The 11th and 12th pairs of ribs are floating ribs as they do not connect anteriorly to the sternum.",
+            "sort_order": 42
+        },
+        {
+            "question_text": "Which of the following diseases can lead to liver inflammation and damage?",
+            "option_a": "Polio",
+            "option_b": "Cholera",
+            "option_c": "Hepatitis",
+            "option_d": "Tuberculosis",
+            "correct_option": "c",
+            "explanation": "Hepatitis refers to inflammation of the liver, commonly caused by viral infections.",
+            "sort_order": 43
+        },
+        {
+            "question_text": "Which of these floral adaptations is MOST suited for pollination by birds (ornithophily)?",
+            "option_a": "Dull-colored flowers",
+            "option_b": "Scentless flowers",
+            "option_c": "Flowers with nectar guides and sturdy structure",
+            "option_d": "Flowers that produce abundant pollen",
+            "correct_option": "c",
+            "explanation": "Ornithophilous flowers usually have vibrant colors, sturdy structures, and nectar guides to attract and support birds.",
+            "sort_order": 44
+        },
+        {
+            "question_text": "Carbon-14 dating is generally not reliable for objects over:",
+            "option_a": "5,000 years",
+            "option_b": "50,000 years",
+            "option_c": "250,000 years",
+            "option_d": "1 million years",
+            "correct_option": "b",
+            "explanation": "After approximately 50,000 years, the remaining amount of Carbon-14 becomes too small to be measured accurately.",
+            "sort_order": 45
+        },
+        {
+            "question_text": "Stealth technology makes aircraft less visible to RADAR by:",
+            "option_a": "Absorbing and deflecting radio waves",
+            "option_b": "Flying at very high altitudes",
+            "option_c": "Emitting jamming signals",
+            "option_d": "Using non-metallic engines",
+            "correct_option": "a",
+            "explanation": "Stealth aircraft use radar-absorbent materials and specific geometric shapes to minimize the reflection of radio waves back to the detector.",
+            "sort_order": 46
+        },
+        {
+            "question_text": "Which of the following is a characteristic of a black hole's event horizon?",
+            "option_a": "It emits intense radiation.",
+            "option_b": "It is the point of no return; nothing can escape.",
+            "option_c": "It reflects all light.",
+            "option_d": "It is composed of solid matter.",
+            "correct_option": "b",
+            "explanation": "The event horizon is the boundary around a black hole beyond which the gravitational pull is so strong that nothing, not even light, can escape.",
+            "sort_order": 47
+        },
+        {
+            "question_text": "Which planet is the largest in our solar system?",
+            "option_a": "Saturn",
+            "option_b": "Uranus",
+            "option_c": "Neptune",
+            "option_d": "Jupiter",
+            "correct_option": "d",
+            "explanation": "Jupiter is the largest planet in our solar system, both in terms of diameter and mass.",
+            "sort_order": 48
+        },
+        {
+            "question_text": "Which of the following is a key difference between asteroids and comets, besides their composition?",
+            "option_a": "Size",
+            "option_b": "Orbit",
+            "option_c": "Brightness",
+            "option_d": "Color",
+            "correct_option": "b",
+            "explanation": "Comets typically have highly elliptical orbits that take them far from the Sun, while asteroids generally have more circular orbits within the asteroid belt.",
+            "sort_order": 49
+        },
+        {
+            "question_text": "Which of these is a fat-soluble vitamin?",
+            "option_a": "Niacin (B3)",
+            "option_b": "Riboflavin (B2)",
+            "option_c": "Tocopherol (E)",
+            "option_d": "Biotin (B7)",
+            "correct_option": "c",
+            "explanation": "Vitamin E (Tocopherol) is a fat-soluble antioxidant. The B-vitamins listed are all water-soluble.",
+            "sort_order": 50
+        },
+        {
+            "question_text": "What role do companion cells play in phloem transport?",
+            "option_a": "Water transport",
+            "option_b": "Providing structural support",
+            "option_c": "Loading and unloading sugars into sieve tube elements",
+            "option_d": "Regulating stomatal opening",
+            "correct_option": "c",
+            "explanation": "Companion cells actively transport sugars into and out of the sieve tube elements, facilitating sugar movement.",
+            "sort_order": 51
+        },
+        {
+            "question_text": "Ibn al-Haytham refuted the 'emission theory' of vision, proposed by:",
+            "option_a": "Aristotle",
+            "option_b": "Democritus",
+            "option_c": "Euclid and Ptolemy",
+            "option_d": "Plato",
+            "correct_option": "c",
+            "explanation": "The emission theory, supported by Euclid and Ptolemy, claimed that vision resulted from rays emitted by the eye.",
+            "sort_order": 52
+        },
+        {
+            "question_text": "The primary objective of defensive Jihad in Islam is to:",
+            "option_a": "Establish a global caliphate",
+            "option_b": "Annex new territory",
+            "option_c": "Restore justice and repel aggression",
+            "option_d": "Acquire war booty (Ghanimah)",
+            "correct_option": "c",
+            "explanation": "Defensive Jihad is sanctioned to protect the Muslim community, its faith, and its lands from external attack and to end persecution, thereby restoring peace and justice.",
+            "sort_order": 53
+        },
+        {
+            "question_text": "Harb-ul-Fijar was fought between Quraysh and which other tribe?",
+            "option_a": "Banu Thaqif",
+            "option_b": "Banu Khuza'a",
+            "option_c": "Banu Hawazin",
+            "option_d": "Banu Ghatafan",
+            "correct_option": "c",
+            "explanation": "The Sacrilegious War (Harb-ul-Fijar) was primarily fought between the Quraysh and their Kinanah allies against the Qays-Aylan confederation, of which Banu Hawazin was a major tribe.",
+            "sort_order": 54
+        },
+        {
+            "question_text": "Hazrat Usman's title 'Zun-Nurain' refers to his marriage to which two daughters of the Prophet (PBUH)?",
+            "option_a": "Ruqayyah and Umm Kulthum",
+            "option_b": "Fatimah and Zainab",
+            "option_c": "Zainab and Ruqayyah",
+            "option_d": "Fatimah and Umm Kulthum",
+            "correct_option": "a",
+            "explanation": "Hazrat Usman (RA) was called 'The Possessor of Two Lights' because he married two of the Prophet's daughters, Ruqayyah (RA) and, after her death, Umm Kulthum (RA).",
+            "sort_order": 55
+        },
+        {
+            "question_text": "'Al-Minhaj fi Sharh Sahih Muslim' is a celebrated commentary by which scholar?",
+            "option_a": "Ibn Hajar al-Asqalani",
+            "option_b": "Imam al-Nawawi",
+            "option_c": "Ibn Kathir",
+            "option_d": "Al-Qurtubi",
+            "correct_option": "b",
+            "explanation": "Imam al-Nawawi's 'Al-Minhaj' is considered one of the most authoritative and widely-read commentaries on Sahih Muslim.",
+            "sort_order": 56
+        },
+        {
+            "question_text": "Hazrat Ali's most distinguished and loyal commander during his caliphate was:",
+            "option_a": "Malik al-Ashtar",
+            "option_b": "Abdullah ibn Abbas",
+            "option_c": "Muhammad ibn Abi Bakr",
+            "option_d": "Ammar ibn Yasir",
+            "correct_option": "a",
+            "explanation": "Malik al-Ashtar was a fierce warrior and Hazrat Ali's most trusted commander, playing a pivotal role in battles like Siffin.",
+            "sort_order": 57
+        },
+        {
+            "question_text": "The hadith establishing Islam's five pillars is primarily narrated by:",
+            "option_a": "Abu Hurairah (RA)",
+            "option_b": "Abdullah ibn Umar (RA)",
+            "option_c": "Aisha (RA)",
+            "option_d": "Anas ibn Malik (RA)",
+            "correct_option": "b",
+            "explanation": "The foundational hadith defining the five pillars of Islam is famously narrated by Abdullah ibn Umar and is found in Sahih al-Bukhari and Sahih Muslim.",
+            "sort_order": 58
+        },
+        {
+            "question_text": "Kiraman Katibin are the two angels responsible for:",
+            "option_a": "Recording human deeds",
+            "option_b": "Guarding the gates of Hell",
+            "option_c": "Taking the soul at death",
+            "option_d": "Blowing the trumpet (Sur)",
+            "correct_option": "a",
+            "explanation": "Kiraman Katibin, meaning 'honorable scribes', record a person's good and bad deeds.",
+            "sort_order": 59
+        },
+        {
+            "question_text": "The decisive Battle of Nahavand is famously known as:",
+            "option_a": "The Battle of the Bridge",
+            "option_b": "The Day of Wrath",
+            "option_c": "Victory of Victories",
+            "option_d": "The Persian Defeat",
+            "correct_option": "c",
+            "explanation": "The Battle of Nahavand (21 AH) was a decisive victory over the Sassanian Empire, called 'Fath al-Futuh' or the Victory of Victories.",
+            "sort_order": 60
+        },
+        {
+            "question_text": "Caliph Ali ibn Abi Talib (RA) is buried in the city of:",
+            "option_a": "Madinah",
+            "option_b": "Kufa",
+            "option_c": "Najaf",
+            "option_d": "Damascus",
+            "correct_option": "c",
+            "explanation": "Following the principle of expanding the topic, the burial place of the fourth Caliph, Ali (RA), is in Najaf, present-day Iraq.",
+            "sort_order": 61
+        },
+        {
+            "question_text": "Pharaoh's wife who adopted Prophet Musa (AS) was:",
+            "option_a": "Asiya",
+            "option_b": "Hagar",
+            "option_c": "Zulaikha",
+            "option_d": "Bilqis",
+            "correct_option": "a",
+            "explanation": "Asiya bint Muzahim, the wife of Pharaoh, is revered in Islam for adopting and protecting Musa (AS) and for her unwavering faith in God.",
+            "sort_order": 62
+        },
+        {
+            "question_text": "Umayyad Caliph during Tariq bin Ziyad's conquest:",
+            "option_a": "Al-Walid I",
+            "option_b": "Abd al-Malik",
+            "option_c": "Sulayman",
+            "option_d": "Umar II",
+            "correct_option": "a",
+            "explanation": "The conquest of Hispania (711 AD) was initiated under the reign of the Umayyad Caliph Al-Walid I in Damascus.",
+            "sort_order": 63
+        },
+        {
+            "question_text": "The Prophet's approximate age during his first trade journey to Syria was:",
+            "option_a": "9 years",
+            "option_b": "12 years",
+            "option_c": "17 years",
+            "option_d": "21 years",
+            "correct_option": "b",
+            "explanation": "He accompanied his uncle and guardian, Abu Talib, on a trade caravan to Syria at the approximate age of 12.",
+            "sort_order": 64
+        },
+        {
+            "question_text": "The finality of Prophethood (Khatm-e-Nabuwat) is explicitly mentioned in Surah:",
+            "option_a": "Al-Baqarah",
+            "option_b": "Yasin",
+            "option_c": "Al-Mulk",
+            "option_d": "Al-Ahzab",
+            "correct_option": "d",
+            "explanation": "Surah Al-Ahzab, verse 40, explicitly refers to Prophet Muhammad (PBUH) as the 'Seal of the Prophets', affirming this core belief.",
+            "sort_order": 65
+        },
+        {
+            "question_text": "Which divine book was not revealed with a new Sharia (legal code)?",
+            "option_a": "Taurat",
+            "option_b": "Zabur",
+            "option_c": "Injeel",
+            "option_d": "Quran",
+            "correct_option": "b",
+            "explanation": "The Zabur, revealed to Prophet Dawood (A.S.), primarily consisted of hymns and prayers, not a new set of divine laws. He followed the Sharia of Musa (A.S.).",
+            "sort_order": 66
+        },
+        {
+            "question_text": "The F2 key, used for editing, is a ____ key:",
+            "option_a": "Function",
+            "option_b": "Navigation",
+            "option_c": "Modifier",
+            "option_d": "Typing",
+            "correct_option": "a",
+            "explanation": "Keys F1 through F12 on a keyboard are known as Function keys.",
+            "sort_order": 67
+        },
+        {
+            "question_text": "Which of the following file extensions is commonly associated with scripts that automate tasks in the Windows operating system?",
+            "option_a": ".zip",
+            "option_b": ".rtf",
+            "option_c": ".bat",
+            "option_d": ".png",
+            "correct_option": "c",
+            "explanation": "'.bat' files are batch files containing a series of commands to be executed by the command interpreter.",
+            "sort_order": 68
+        },
+        {
+            "question_text": "Which network topology's primary vulnerability is the failure of a single point (the central hub)?",
+            "option_a": "Ring",
+            "option_b": "Bus",
+            "option_c": "Star",
+            "option_d": "Mesh",
+            "correct_option": "c",
+            "explanation": "In a star topology, if the central hub fails, the entire network can be disrupted.",
+            "sort_order": 69
+        },
+        {
+            "question_text": "What is the main purpose of the Master Slide in PowerPoint?",
+            "option_a": "To apply a uniform design and layout to all slides.",
+            "option_b": "To add animations to individual slides.",
+            "option_c": "To insert charts and graphs.",
+            "option_d": "To record narration for the slideshow.",
+            "correct_option": "a",
+            "explanation": "The Master Slide controls the overall design template, ensuring consistency across all slides.",
+            "sort_order": 70
+        },
+        {
+            "question_text": "The fastest memory inside the CPU is a:",
+            "option_a": "Cache",
+            "option_b": "Register",
+            "option_c": "ROM",
+            "option_d": "Flash Memory",
+            "correct_option": "b",
+            "explanation": "Registers are the smallest and fastest memory locations, located directly on the CPU chip for immediate access.",
+            "sort_order": 71
+        },
+        {
+            "question_text": "PGP, an encryption program, stands for:",
+            "option_a": "Private Gateway Protocol",
+            "option_b": "Personal Graphic Protector",
+            "option_c": "Public Gateway Privacy",
+            "option_d": "Pretty Good Privacy",
+            "correct_option": "d",
+            "explanation": "PGP (Pretty Good Privacy",
+            "sort_order": 72
+        },
+        {
+            "question_text": "Which keyboard shortcut starts the PowerPoint presentation from the *currently selected* slide?",
+            "option_a": "F5",
+            "option_b": "Ctrl + F5",
+            "option_c": "Shift + F5",
+            "option_d": "Alt + F5",
+            "correct_option": "c",
+            "explanation": "'Shift + F5' starts the slide show from the current slide, while 'F5' starts from the beginning.",
+            "sort_order": 73
+        },
+        {
+            "question_text": "The event known as 'The Mother of All Demos' introduced the:",
+            "option_a": "Touchpad",
+            "option_b": "Trackball",
+            "option_c": "Computer Mouse",
+            "option_d": "Joystick",
+            "correct_option": "c",
+            "explanation": "This 1968 demonstration showcased many computing concepts, including the mouse.",
+            "sort_order": 74
+        },
+        {
+            "question_text": "Which action in Windows typically bypasses the Recycle Bin?",
+            "option_a": "Right-click and select 'Delete'",
+            "option_b": "Pressing the 'Delete' key",
+            "option_c": "Using the 'Shift + Delete' combination",
+            "option_d": "Deleting a file from a network share",
+            "correct_option": "c",
+            "explanation": "The 'Shift + Delete' key combination permanently deletes files, skipping the Recycle Bin. Deleting from network shares also bypasses it.",
+            "sort_order": 75
+        },
+        {
+            "question_text": "The keyboard shortcut to insert a hyperlink is ____:",
+            "option_a": "Ctrl + H",
+            "option_b": "Ctrl + L",
+            "option_c": "Ctrl + K",
+            "option_d": "Alt + H",
+            "correct_option": "c",
+            "explanation": "Ctrl + K is the standard shortcut in Microsoft Office applications to open the Insert Hyperlink dialog box.",
+            "sort_order": 76
+        },
+        {
+            "question_text": "The reforms failed to ____ the lives of the poor.",
+            "option_a": "Ameliorate",
+            "option_b": "Denigrate",
+            "option_c": "Exacerbate",
+            "option_d": "Stymie",
+            "correct_option": "a",
+            "explanation": "Ameliorate means to make a bad or unsatisfactory situation better.",
+            "sort_order": 77
+        },
+        {
+            "question_text": "The seminar will take place ___ the Marriott Hotel ___ May 5th.",
+            "option_a": "in, in",
+            "option_b": "at, on",
+            "option_c": "on, at",
+            "option_d": "at, in",
+            "correct_option": "b",
+            "explanation": "'At' is used for specific locations (a hotel) and 'on' is used for specific dates.",
+            "sort_order": 78
+        },
+        {
+            "question_text": "A philatelist uses a Perforation Gauge to measure:",
+            "option_a": "Stamp perforations",
+            "option_b": "Paper thickness",
+            "option_c": "Ink acidity",
+            "option_d": "Watermark clarity",
+            "correct_option": "a",
+            "explanation": "A perforation gauge is a specialized tool for philatelists (stamp collectors) to measure the density of holes on a stamp's edge.",
+            "sort_order": 79
+        },
+        {
+            "question_text": "The patient ___ before the doctor arrived.",
+            "option_a": "died",
+            "option_b": "has died",
+            "option_c": "had died",
+            "option_d": "was dying",
+            "correct_option": "c",
+            "explanation": "Past Perfect ('had died') is used for the earlier of two actions that occurred in the past.",
+            "sort_order": 80
+        },
+        {
+            "question_text": "The wedding was `called off` at the last minute. This means it was:",
+            "option_a": "Postponed",
+            "option_b": "Rescheduled",
+            "option_c": "Cancelled",
+            "option_d": "Relocated",
+            "correct_option": "c",
+            "explanation": "To 'call off' an event means to cancel it entirely.",
+            "sort_order": 81
+        },
+        {
+            "question_text": "His knowledge of the subject is superior ___ mine.",
+            "option_a": "than",
+            "option_b": "from",
+            "option_c": "to",
+            "option_d": "over",
+            "correct_option": "c",
+            "explanation": "Adjectives ending in '-ior' (superior, junior, etc.) use 'to' for comparison, not 'than'.",
+            "sort_order": 82
+        },
+        {
+            "question_text": "He had the ______ to question the director's final decision.",
+            "option_a": "timorousness",
+            "option_b": "effrontery",
+            "option_c": "diffidence",
+            "option_d": "hesitation",
+            "correct_option": "b",
+            "explanation": "Effrontery means insolent or impertinent behavior, a form of audacity often considered rude.",
+            "sort_order": 83
+        },
+        {
+            "question_text": "An Awl is a pointed tool used by a:",
+            "option_a": "Weaver",
+            "option_b": "Cobbler",
+            "option_c": "Plumber",
+            "option_d": "Blacksmith",
+            "correct_option": "b",
+            "explanation": "A cobbler uses an awl to pierce holes in tough materials like leather for stitching.",
+            "sort_order": 84
+        },
+        {
+            "question_text": "The phrase 'once in a blue moon' means:",
+            "option_a": "Something happening at night",
+            "option_b": "A very rare event",
+            "option_c": "A sad occasion",
+            "option_d": "A beautiful spectacle",
+            "correct_option": "b",
+            "explanation": "A 'blue moon' refers to a second full moon within a single calendar month, which is an infrequent occurrence.",
+            "sort_order": 85
+        },
+        {
+            "question_text": "The antonym for EXONERATE is:",
+            "option_a": "Absolve",
+            "option_b": "Acquit",
+            "option_c": "Incriminate",
+            "option_d": "Vindicate",
+            "correct_option": "c",
+            "explanation": "To exonerate is to free someone from blame. To incriminate is to make someone appear guilty.",
+            "sort_order": 86
+        },
+        {
+            "question_text": "Host of the previous NATO Summit (2024):",
+            "option_a": "Vilnius, Lithuania",
+            "option_b": "Washington D.C., USA",
+            "option_c": "Madrid, Spain",
+            "option_d": "London, UK",
+            "correct_option": "b",
+            "explanation": "The 2024 summit was held in Washington D.C. to mark the 75th anniversary.",
+            "sort_order": 87
+        },
+        {
+            "question_text": "Narges Mohammadi won the 2023 Peace Prize for fighting against:",
+            "option_a": "Women's oppression in Iran",
+            "option_b": "Climate change in Asia",
+            "option_c": "Nuclear proliferation",
+            "option_d": "Global poverty",
+            "correct_option": "a",
+            "explanation": "The Nobel committee cited her fight against the oppression of women in Iran and promoting human rights for all.",
+            "sort_order": 88
+        },
+        {
+            "question_text": "Captain of the Pakistan Cricket Team for Champions Trophy 2025:",
+            "option_a": "Babar Azam",
+            "option_b": "Mohammad Rizwan",
+            "option_c": "Shaheen Afridi",
+            "option_d": "Shadab Khan",
+            "correct_option": "b",
+            "explanation": "Mohammad Rizwan led the Pakistan side as the white-ball captain.",
+            "sort_order": 89
+        },
+        {
+            "question_text": "The 26th Constitutional Amendment primarily focused on reforming the:",
+            "option_a": "Election Commission",
+            "option_b": "Judiciary",
+            "option_c": "Armed Forces",
+            "option_d": "Local Bodies",
+            "correct_option": "b",
+            "explanation": "The 26th Amendment introduced significant reforms to the structure and tenure of the judiciary.",
+            "sort_order": 90
+        },
+        {
+            "question_text": "The Asian Games are organized by which governing body?",
+            "option_a": "International Olympic Committee",
+            "option_b": "Commonwealth Games Federation",
+            "option_c": "Asian Athletics Association",
+            "option_d": "Olympic Council of Asia",
+            "correct_option": "d",
+            "explanation": "The Olympic Council of Asia (OCA), based in Kuwait City, is the governing body for all sports in Asia.",
+            "sort_order": 91
+        },
+        {
+            "question_text": "The 2024 SCO Heads of State Council meeting was hosted by:",
+            "option_a": "Pakistan",
+            "option_b": "Kazakhstan",
+            "option_c": "India",
+            "option_d": "Iran",
+            "correct_option": "b",
+            "explanation": "The 24th SCO Summit was held in Astana, Kazakhstan, on July 3-4, 2024.",
+            "sort_order": 92
+        },
+        {
+            "question_text": "If ax + b = d, what is x in terms of a, b, d?",
+            "option_a": "(d - b) \/ a",
+            "option_b": "(d + b) \/ a",
+            "option_c": "d \/ a - b",
+            "option_d": "a(d - b)",
+            "correct_option": "a",
+            "explanation": "This is a literal equation. Subtract b from both sides to get ax = d - b. Then, divide by 'a' to solve for x.",
+            "sort_order": 93
+        },
+        {
+            "question_text": "Complete the reverse series: Z, U, Q, N, L, ?",
+            "option_a": "J",
+            "option_b": "I",
+            "option_c": "H",
+            "option_d": "K",
+            "correct_option": "d",
+            "explanation": "The series moves backward, with the skip decreasing by one: -5, -4, -3, -2, -1.",
+            "sort_order": 94
+        },
+        {
+            "question_text": "A 200m train crosses a 300m platform in 25 seconds. The train's speed is:",
+            "option_a": "60 km\/hr",
+            "option_b": "68 km\/hr",
+            "option_c": "72 km\/hr",
+            "option_d": "80 km\/hr",
+            "correct_option": "c",
+            "explanation": "Total distance = 200+300=500m. Speed = 500m\/25s = 20 m\/s. To convert to km\/hr: 20 * (18\/5) = 72 km\/hr.",
+            "sort_order": 95
+        },
+        {
+            "question_text": "Average of first 60 positive even numbers is:",
+            "option_a": "60",
+            "option_b": "61",
+            "option_c": "59",
+            "option_d": "120",
+            "correct_option": "b",
+            "explanation": "The average of the first 'n' even numbers is always 'n+1'.",
+            "sort_order": 96
+        },
+        {
+            "question_text": "Which offer is better for a customer on an item marked Rs. 1000?",
+            "option_a": "Successive discounts of 10%, 20%",
+            "option_b": "Successive discounts of 20%, 10%",
+            "option_c": "A single discount of 29%",
+            "option_d": "All are equal",
+            "correct_option": "c",
+            "explanation": "Successive discounts of 10% and 20% are equivalent to 10+20-(10*20\/100) = 28%. A single 29% discount is higher and thus better.",
+            "sort_order": 97
+        },
+        {
+            "question_text": "Author of the first Urdu travelogue, 'Ajaibat-e-Farang':",
+            "option_a": "Sir Syed Ahmed Khan",
+            "option_b": "Yusuf Khan Kambalposh",
+            "option_c": "Shibli Nomani",
+            "option_d": "Ibn-e-Insha",
+            "correct_option": "b",
+            "explanation": "Yusuf Khan Kambalposh wrote 'Ajaibat-e-Farang' (Wonders of Europe) in 1847, making it the first travelogue in Urdu.",
+            "sort_order": 98
+        },
+        {
+            "question_text": "Lafz 'Aag' jins ke taur par istemaal hota hai:",
+            "option_a": "Muzakkar",
+            "option_b": "Muannas",
+            "option_c": "Jins-e-Aam",
+            "option_d": "Ism-e-Sifat",
+            "correct_option": "b",
+            "explanation": "Lafz 'Aag' hamesha muannas bola aur likha jaata hai, maslan 'Aag lag gayi'.",
+            "sort_order": 99
+        },
+        {
+            "question_text": "'دوپہر' کا لفظ اسم کی کس قسم سے ہے؟",
+            "option_a": "اسم ظرف زماں",
+            "option_b": "اسم ظرف مکاں",
+            "option_c": "اسم معرفہ",
+            "option_d": "اسم نکرہ",
+            "correct_option": "a",
+            "explanation": "'دوپہر' دن کے ایک خاص پہر یا وقت کو ظاہر کرتا ہے، اس لیے یہ اسم ظرف زماں (Noun of Time",
+            "sort_order": 100
+        }
+    ]
+}

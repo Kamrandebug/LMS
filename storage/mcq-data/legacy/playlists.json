@@ -1,0 +1,28 @@
+[
+    {
+        "name": "CSS MPT Screening Test 2026",
+        "slug": "css-mpt-2026",
+        "exam_name": "CSS Screening Test",
+        "exam_year": 2026,
+        "description": "The ultimate 200-mark practice marathon for the CSS Screening Test covering all core subjects.",
+        "target_audience": "CSS aspirants",
+        "sort_order": 1
+    },
+    {
+        "name": "PMS GK 2026",
+        "slug": "pms-gk-2026",
+        "exam_name": "PMS General Knowledge",
+        "exam_year": 2026,
+        "description": "Comprehensive General Knowledge preparation for PMS examinations.",
+        "target_audience": "PMS aspirants",
+        "sort_order": 2
+    },
+    {
+        "name": "LAT Preparation",
+        "slug": "lat-preparation",
+        "exam_name": "Law Admission Test",
+        "description": "Essential preparation for Law Admission Test covering all subjects.",
+        "target_audience": "LAT candidates",
+        "sort_order": 3
+    }
+]

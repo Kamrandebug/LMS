@@ -1,0 +1,9 @@
+[
+    { "type": "islamic", "quote": "The best of you are those who are best to others.", "author": "Prophet Muhammad (PBUH)" },
+    { "type": "islamic", "quote": "Seeking knowledge is an obligation upon every Muslim.", "author": "Prophet Muhammad (PBUH)" },
+    { "type": "motivation", "quote": "Start where you are. Use what you have. Do what you can.", "author": "Arthur Ashe" },
+    { "type": "motivation", "quote": "The secret of getting ahead is getting started.", "author": "Mark Twain" },
+    { "type": "motivation", "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.", "author": "Winston Churchill" },
+    { "type": "fact", "quote": "The human brain can store approximately 2.5 petabytes of data.", "author": null },
+    { "type": "fact", "quote": "Pakistan's Karakoram Highway is the highest paved international road in the world.", "author": null }
+]
