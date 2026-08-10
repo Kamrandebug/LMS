@@ -1,11 +1,17 @@
 import confetti from 'canvas-confetti';
+import Alpine from 'alpinejs';
 import './bootstrap';
 
-// Livewire 3 bundles its own Alpine instance. We register our Alpine data
-// against Livewire's Alpine once Livewire initializes. Calling Alpine.start()
-// ourselves would start a SECOND Alpine instance that fights Livewire's,
-// leaving Livewire components (wire:click etc.) unregistered.
+// Livewire 3 bundles its own Alpine instance. When Livewire is loaded we
+// register our Alpine data against its instance and let it call Alpine.start().
+// When Livewire is NOT loaded (auth pages, static pages), we call Alpine.start()
+// ourselves after a short grace period so directives like x-data/@click work.
+let alpineStarted = false;
+
 document.addEventListener('livewire:init', () => {
+    if (alpineStarted) return;
+    alpineStarted = true;
+
     const Alpine = window.Alpine;
 
     // Theme Manager
@@ -26,6 +32,16 @@ document.addEventListener('livewire:init', () => {
         }
     }));
 });
+
+// Fallback: on pages without Livewire (e.g. auth), manually start Alpine so
+// x-data, @click, :class etc. work. We wait a tick to give Livewire a chance,
+// then start if it hasn't already.
+setTimeout(() => {
+    if (!alpineStarted && typeof Alpine !== 'undefined') {
+        alpineStarted = true;
+        Alpine.start();
+    }
+}, 100);
 
 // Quiz confetti + animations
 window.addEventListener('quiz-complete', (e) => {

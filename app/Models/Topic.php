@@ -21,6 +21,16 @@ class Topic extends Model
         return $this->hasMany(QuestionSet::class)->orderBy('set_number');
     }
 
+    public function resourceMaterials(): HasMany
+    {
+        return $this->hasMany(ResourceMaterial::class)->orderBy('sort_order');
+    }
+
+    public function recordedLectures(): HasMany
+    {
+        return $this->hasMany(RecordedLecture::class)->orderBy('sort_order');
+    }
+
     public function scopeActive($query)
     {
         return $query->where('is_active', true)->orderBy('sort_order');

@@ -64,21 +64,21 @@
 
                     <div class="flip-card-inner">
                         {{-- -------- FRONT FACE : LOGIN -------- --}}
-                        <div class="flip-face flip-face-front flex h-full flex-col md:flex-row">
-                            <div class="panel-left flex h-full flex-1 flex-col bg-white px-6 py-8 lg:px-10 lg:py-10">
+                        <div class="flip-face flip-face-front flex min-h-0 flex-col md:flex-row">
+                            <div class="panel-left flex min-h-0 flex-1 flex-col bg-white px-6 py-8 lg:px-10 lg:py-10">
                                 @include('auth.partials.login-form')
                             </div>
-                            <div class="hero-panel flex h-full flex-[1.35] flex-col items-center justify-center overflow-hidden bg-gradient-to-br from-[#020b30] via-[#101e5c] to-[#1c41a8] px-8 py-10 text-center">
+                            <div class="hero-panel sticky top-0 flex min-h-0 flex-[1.35] flex-col items-center justify-center overflow-hidden bg-gradient-to-br from-[#020b30] via-[#101e5c] to-[#1c41a8] px-8 py-10 text-center">
                                 @include('auth.partials.hero-panel')
                             </div>
                         </div>
 
                         {{-- -------- BACK FACE : REGISTER -------- --}}
-                        <div class="flip-face flip-face-back flex h-full flex-col md:flex-row">
-                            <div class="panel-left flex h-full flex-1 flex-col bg-white px-6 py-8 lg:px-10 lg:py-10">
+                        <div class="flip-face flip-face-back flex min-h-0 flex-col md:flex-row">
+                            <div class="panel-left flex min-h-0 flex-1 flex-col bg-white px-6 py-8 lg:px-10 lg:py-10">
                                 @include('auth.partials.register-form')
                             </div>
-                            <div class="hero-panel flex h-full flex-[1.35] flex-col items-center justify-center overflow-hidden bg-gradient-to-br from-[#020b30] via-[#101e5c] to-[#1c41a8] px-8 py-10 text-center">
+                            <div class="hero-panel sticky top-0 flex min-h-0 flex-[1.35] flex-col items-center justify-center overflow-hidden bg-gradient-to-br from-[#020b30] via-[#101e5c] to-[#1c41a8] px-8 py-10 text-center">
                                 @include('auth.partials.hero-panel')
                             </div>
                         </div>
