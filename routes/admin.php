@@ -9,6 +9,8 @@ use App\Http\Controllers\Admin\QuestionController;
 use App\Http\Controllers\Admin\MockExamController;
 use App\Http\Controllers\Admin\MockExamQuestionController;
 use App\Http\Controllers\Admin\QuestionReportController;
+use App\Http\Controllers\Admin\ResourceMaterialController;
+use App\Http\Controllers\Admin\RecordedLectureController;
 
 Route::prefix('admin')
     ->name('admin.')
@@ -42,6 +44,18 @@ Route::prefix('admin')
             Route::delete('/{mockExamQuestion}',                                        [MockExamQuestionController::class, 'destroy'])    ->name('destroy');
             Route::patch('/{mockExamQuestion}/order',                                   [MockExamQuestionController::class, 'updateOrder'])->name('update-order');
         });
+
+        // ── Resource Materials CRUD ───────────────────────────────────────────────────
+        Route::resource('resource-materials', ResourceMaterialController::class)
+            ->except(['show'])
+            ->names('resource-materials')
+            ->parameters(['resource-materials' => 'resourceMaterial']);
+
+        // ── Recorded Lectures CRUD ────────────────────────────────────────────────────
+        Route::resource('recorded-lectures', RecordedLectureController::class)
+            ->except(['show'])
+            ->names('recorded-lectures')
+            ->parameters(['recorded-lectures' => 'recordedLecture']);
 
         // Question Reports (read-only viewer + status management)
         Route::prefix('reports')->name('reports.')->group(function () {

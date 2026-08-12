@@ -133,7 +133,38 @@
 
 </div>
 
-{{-- ===== ROW 3: Quick Actions Card ===== --}}
+{{-- ===== ROW 3: Resource Materials & Recorded Lectures ===== --}}
+<div class="row">
+
+    <div class="col-lg-3 col-6">
+        <div class="small-box bg-warning">
+            <div class="inner">
+                <h3>{{ $stats['total_resource_materials'] }}</h3>
+                <p>Resource Materials</p>
+            </div>
+            <div class="icon"><i class="fas fa-file-pdf"></i></div>
+            <a href="{{ route('admin.resource-materials.index') }}" class="small-box-footer">
+                Manage <i class="fas fa-arrow-circle-right"></i>
+            </a>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-6">
+        <div class="small-box bg-success">
+            <div class="inner">
+                <h3>{{ $stats['total_recorded_lectures'] }}</h3>
+                <p>Recorded Lectures</p>
+            </div>
+            <div class="icon"><i class="fas fa-video"></i></div>
+            <a href="{{ route('admin.recorded-lectures.index') }}" class="small-box-footer">
+                Manage <i class="fas fa-arrow-circle-right"></i>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+{{-- ===== ROW 4: Quick Actions Card ===== --}}
 <div class="row">
     <div class="col-12">
         <div class="card card-outline card-primary">

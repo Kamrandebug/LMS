@@ -1,4 +1,16 @@
 # LearnUp — LAT Preparation Platform
+php artisan cache:clear
+php artisan config:clear
+php artisan route:clear
+php artisan view:clear
+php artisan event:clear
+
+## Recent Bug Fixes
+
+### 2026-08-12: Resource Material "Open PDF" button navigating to wrong page
+- **Problem:** The `resource-materials.blade.php` view used `$material->file_url` directly in the `<a href>`, but uploaded files store their path in `file_path` (not `file_url`). Since `file_url` was `null`, clicking "Open" reloaded the same page (`subjects.resources.show` route).
+- **Fix:** Changed `href="{{ $material->file_url }}"` → `href="{{ $material->getStorageUrl() }}"` in `resources/views/pages/resource-materials.blade.php:62`. The `getStorageUrl()` method (already defined on the model) correctly returns `asset('storage/' . $file_path)` for uploaded files or falls back to `$file_url` for externally-linked URLs.
+- **Files changed:** `resources/views/pages/resource-materials.blade.php` (1 line)
 
 A free, gamified MCQ practice platform focused on the **LAT (Law Admission Test)**. Built with Laravel 11, Livewire 3, Tailwind CSS, and Alpine.js.
 

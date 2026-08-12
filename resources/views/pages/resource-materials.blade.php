@@ -59,7 +59,7 @@
                                     {{ strtoupper($material->file_type) }}
                                 </span>
                             </div>
-                            <a href="{{ $material->file_url }}" target="_blank" rel="noopener"
+                            <a href="{{ $material->getStorageUrl() }}" target="_blank" rel="noopener"
                                class="shrink-0 inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-blue-600 text-white text-sm font-bold hover:bg-blue-700 transition-all duration-200 hover:shadow-lg shadow-blue-500/20">
                                 Open {{ strtoupper($material->file_type) }}
                                 <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">

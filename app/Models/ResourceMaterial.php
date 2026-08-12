@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 class ResourceMaterial extends Model
 {
     protected $fillable = [
-        'topic_id', 'title', 'description', 'file_url', 'file_type',
+        'topic_id', 'title', 'description', 'file_url', 'file_path', 'file_type',
         'sort_order', 'is_active',
     ];
 
@@ -24,5 +24,17 @@ class ResourceMaterial extends Model
     public function scopeActive($query)
     {
         return $query->where('is_active', true);
+    }
+
+    /**
+     * Get the public URL for the stored file.
+     * Falls back to file_url if no local file was uploaded.
+     */
+    public function getStorageUrl(): ?string
+    {
+        if ($this->file_path) {
+            return asset('storage/' . $this->file_path);
+        }
+        return $this->file_url;
     }
 }

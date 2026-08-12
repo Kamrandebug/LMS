@@ -182,6 +182,24 @@
                         </ul>
                     </li>
 
+                    {{-- Resource Materials --}}
+                    <li class="nav-item">
+                        <a href="{{ route('admin.resource-materials.index') }}"
+                           class="nav-link {{ request()->routeIs('admin.resource-materials.*') ? 'active' : '' }}">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>Resource Materials</p>
+                        </a>
+                    </li>
+
+                    {{-- Recorded Lectures --}}
+                    <li class="nav-item">
+                        <a href="{{ route('admin.recorded-lectures.index') }}"
+                           class="nav-link {{ request()->routeIs('admin.recorded-lectures.*') ? 'active' : '' }}">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>Recorded Lectures</p>
+                        </a>
+                    </li>
+
                     {{-- Mock Exams --}}
                     <li class="nav-item {{ request()->routeIs('admin.mock-exams.*') ? 'menu-open' : '' }}">
                         <a href="#" class="nav-link {{ request()->routeIs('admin.mock-exams.*') ? 'active' : '' }}">
@@ -231,6 +249,9 @@
     <div class="content-wrapper">
 
         {{-- Page Header --}}
+        @hasSection('content_header')
+            @yield('content_header')
+        @else
         <div class="content-header">
             <div class="container-fluid">
                 <div class="row mb-2">
@@ -248,6 +269,7 @@
                 </div>
             </div>
         </div>
+        @endif
 
         {{-- Main Content --}}
         <section class="content">
